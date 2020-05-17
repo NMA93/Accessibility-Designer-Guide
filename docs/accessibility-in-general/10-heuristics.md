@@ -34,6 +34,10 @@ The heuristics are actually more of a rule of thumb for experts to detect as man
 
 Nothing is more annoying than a process that the user cannot understand. The system should always give the user **feedback in a reasonable amount of time** and inform him about what is happening. By providing clear feedback on the status of the system, people with disabilities will feel more secure while using the system.
 
+<img src="{{ '/assets/images/heuristics/visibility.png' | prepend: site.baseurl }}" alt="picture of a transmission process on a mobile phone, which shows the progress in the ui" title="picture of a transmission process on a mobile phone, which shows the progress in the ui"/>
+
+In this example the user is immediately shown that the sending is in progress. Also the progress of the process is shown to the user. Through this feedback the user knows that everything works.
+
 ---
 
 ## Match between system and the real world

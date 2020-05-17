@@ -1,4 +1,6 @@
-I"p<h1 class="fs-9 no_toc" id="10-heuristics-of-jakob-nielsen">10 Heuristics of Jakob Nielsen</h1>
+I"<p><img src="/Accessibility-Designer-Guide/assets/images/heuristics.png" alt="Title Picture Heuristics" title="Title Picture Heuristics" /></p>
+
+<h1 class="fs-9 no_toc" id="10-heuristics-of-jakob-nielsen">10 Heuristics of Jakob Nielsen</h1>
 
 <p class="fs-6 fw-300">If there is such a thing as a generally accepted guide to good usability, then these are the 10 interaction design principles of Jakob Nielsen.</p>
 
@@ -31,6 +33,8 @@
 <h2 id="visibility-of-system-status">Visibility of system status</h2>
 
 <p>Nothing is more annoying than a process that the user cannot understand. The system should always give the user <strong>feedback in a reasonable amount of time</strong> and inform him about what is happening. By providing clear feedback on the status of the system, people with disabilities will feel more secure while using the system.</p>
+
+<p><img src="/Accessibility-Designer-Guide/assets/images/heuristics/visibility.png" alt="picture of a transmission process on a mobile phone, which shows the progress in the ui" title="picture of a transmission process on a mobile phone, which shows the progress in the ui" /></p>
 
 <hr />
 
