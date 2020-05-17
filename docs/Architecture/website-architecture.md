@@ -5,6 +5,7 @@ parent: Architecture
 nav_order: 1
 ---
 
+
 # Website architecture
 {: .no_toc }
 {: .fs-9 }
@@ -32,7 +33,10 @@ People with visual impairments navigate through a website with a screen reader, 
 
 A content-relevant page should be accessible via several ways within a page architecture. For example, a page can be accessible via a teaser in addition to the navigation. Ideally, there should be several content hubs within a page architecture which only serve to guide the user to his destination. These can be seen as an extension of the navigation and therefore do not disturb users with screen readers. This can help people with cognitive and visual impairments to find content faster.
 
+### Good to know
+{: .no_toc }
 Pages that only serve to redirect the user to other pages should not contain relevant content. Since they do not have to be visited to navigate the site. Additionally, link-heavy sections in a content-relevant page disturb the user experience with screen readers.
+{: .code-example }
 
 ---
 

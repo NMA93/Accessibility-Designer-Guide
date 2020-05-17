@@ -5,6 +5,8 @@ parent: Accessibility in general
 nav_order: 3
 ---
 
+<img src="{{ '/assets/images/heuristics.png' | prepend: site.baseurl }}" alt="Title Picture Heuristics" title="Title Picture Heuristics"/>
+
 # 10 Heuristics of Jakob Nielsen
 {: .fs-9 }
 {: .no_toc }

@@ -5,6 +5,9 @@ parent: Accessibility in general
 nav_order: 1
 ---
 
+<img src="{{ '/assets/images/important.png' | prepend: site.baseurl }}" alt="Title Picture Why it is important" title="Title Picture Why it is important"/>
+
+
 # Why it is important
 {: .fs-9 }
 {: .no_toc }

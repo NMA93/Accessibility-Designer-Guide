@@ -5,6 +5,8 @@ parent: Accessibility in general
 nav_order: 2
 ---
 
+<img src="{{ '/assets/images/ARIA.png' | prepend: site.baseurl }}" alt="Title Picture ARIA" title="Title Picture ARIA"/>
+
 # ARIA
 {: .no_toc }
 {: .fs-9 }
