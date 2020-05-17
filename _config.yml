@@ -33,9 +33,7 @@ github_username:  jekyll
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
-
-  gems:
-- jekyll-seo-tag
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
