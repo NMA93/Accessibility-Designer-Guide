@@ -1,0 +1,99 @@
+I"�<h1 class="no_toc fs-9" id="typography">Typography</h1>
+
+<p class="fs-6 fw-300">Fonts affect the appearance of a website like no other element. It is therefore not surprising that they also have a great influence on usability.</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#print-also-works-digitally" id="markdown-toc-print-also-works-digitally">Print also works digitally</a></li>
+  <li><a href="#fonts-sizes" id="markdown-toc-fonts-sizes">Fonts sizes</a>    <ol>
+      <li><a href="#for-print" id="markdown-toc-for-print">For print</a></li>
+      <li><a href="#for-web" id="markdown-toc-for-web">For web</a></li>
+    </ol>
+  </li>
+  <li><a href="#line-height" id="markdown-toc-line-height">Line height</a></li>
+  <li><a href="#text-width" id="markdown-toc-text-width">Text width</a>    <ol>
+      <li><a href="#width-values" id="markdown-toc-width-values">Width values</a></li>
+    </ol>
+  </li>
+  <li><a href="#colors" id="markdown-toc-colors">Colors</a></li>
+  <li><a href="#levels-of-the-titles" id="markdown-toc-levels-of-the-titles">Levels of the titles</a></li>
+  <li><a href="#do-not-use-text-as-image" id="markdown-toc-do-not-use-text-as-image">Do not use text as image</a></li>
+</ol>
+
+<hr />
+
+<h2 id="print-also-works-digitally">Print also works digitally</h2>
+
+<p>For centuries, typefaces have been refined by type designers, typographers and designers. Many specifications that work for <strong>print can also be transferred to the web</strong> and can increase the usability of a page.</p>
+
+<h2 id="fonts-sizes">Fonts sizes</h2>
+<p>From classical typography we know a clear classification of font sizes, <strong>3 categories have been established</strong>:</p>
+
+<h3 id="for-print">For print</h3>
+<ul>
+  <li>The consultation size: <strong>6 - 8 point</strong> <em>(annotations, margin notes, captions, lexicon entries)</em></li>
+  <li>The reading size: <strong>9 - 12 point</strong> <em>(larger texts)</em></li>
+  <li>The sight size: <strong>14 - 28 point</strong> <em>(titles)</em></li>
+</ul>
+
+<p>This rule of thumb has proven itself and helps to structure texts in print in a way that is pleasing to the eye. Of course, <strong>this rule can also be broken, but to break a rule, one must first know it</strong>.</p>
+
+<p>Personally, I always have this rule in mind when I have to develop font sizes for digital products. They are well suited to create a harmonious typeface on the web, but point values cannot simply be adopted 1:1 for pixel values. The following rule serves as a <strong>good basis for a typographic system</strong>:</p>
+
+<blockquote>
+  <h3 id="for-web">For web</h3>
+  <ul>
+    <li>The consultation size: <strong>13 – 14px</strong></li>
+    <li>The reading size: <strong>16 - 20px</strong></li>
+    <li>The sight size: <strong>ca. 24px – to the top without limit</strong></li>
+  </ul>
+</blockquote>
+
+<p>In general, <strong>fonts on the Web should not be smaller than 13px</strong>, but if this should happen, it is mostly decorative elements that do not serve the UI or there must be a really good reason to fall below this value.</p>
+
+<hr />
+
+<h2 id="line-height">Line height</h2>
+
+<p>A carefully chosen line height not only helps users with disabilities to understand text faster. The line height varies from font to font and is dependent on the line length and the visual appearance of the font. Still, there are certain basic rules that can help to define a line height that is comfortable for the eye.</p>
+
+<ul>
+  <li>As a rule of thumb, the line height should be <strong>120% of the font size</strong>, which means at least <strong>12px line height for a 10px font</strong>.</li>
+  <li>The line height should always be <strong>clearly larger than the word spacing</strong>.</li>
+</ul>
+
+<hr />
+
+<h2 id="text-width">Text width</h2>
+
+<p>The web is often very generously designed and the complete viewport width is often used.  However, a certain part of a website should have clear limitations, and this includes copy text. If the width is too large and the number of characters per line is too high, the eye loses its orientation. This makes it difficult to read texts, not only for people with disabilities. The following example shows this clearly:</p>
+
+<p><img src="//placehold.it/800x200" alt="" /></p>
+
+<p>In print, a rule of thumb is <strong>60 – 80 characters per line</strong>. I personally like to have a value of <strong>500 – 700 pixels</strong> for copy text in the width on a website. This comes pretty close to the rule for print Depending on font and font size. In the end it is a combination of all values that results in a harmonious and pleasantly readable typeface.</p>
+
+<p><img src="//placehold.it/800x200" alt="" /></p>
+
+<h3 id="width-values">Width values</h3>
+<ul>
+  <li>Desktop: <strong>500 – 700px</strong></li>
+  <li>Tablet: <strong>500 – 700px</strong></li>
+  <li>Mobile: <strong>full width</strong></li>
+</ul>
+
+<h2 id="colors">Colors</h2>
+<p>According to the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html/" title="W3C guidelines">W3C</a>  guidelines, the contrast of text of normal size (approx. 13px - 17px) must have a contrast ratio of at least <strong>4.5:1</strong>. From 18px and larger font sizes, the text must have a contrast ratio of at least <strong>3:1</strong>.</p>
+
+<p>There are countless tools for checking the contrast of elements and text, one of my favourite tools is the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" title="Colour Contrast Analyser Tool">Colour Contrast Analyser</a> from the paciello group.</p>
+
+<p>Check <a href="https://nma93.github.io/Accessibility-Designer-Guide/02-General%20specifications/03-Colours//" title="Colour chapter">Colours</a> to learn more about colours and contrast.</p>
+
+<h2 id="levels-of-the-titles">Levels of the titles</h2>
+<p>TBD</p>
+
+<h2 id="do-not-use-text-as-image">Do not use text as image</h2>
+<p>Everyone should be aware of it, and yet it keeps popping up. Text that was placed in a header image in Photoshop and is now available as an image (jpeg or png) on the website. A mortal sin in terms of accessibility. Screen readers have no chance of reading this text unless it is added with alt text. However, I recommend not to do this.</p>
+:ET
