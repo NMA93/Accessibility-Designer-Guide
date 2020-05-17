@@ -7,16 +7,19 @@ h1,
 .text-alpha {
   @include fs-11;
   font-weight: 900;
+  font-family: 'Bitter', serif;
 }
 
 h2,
 .text-beta {
   @include fs-6;
+  font-family: 'Bitter', serif;
 }
 
 h3,
 .text-gamma {
   @include fs-5;
+  font-family: 'Bitter', serif;
 }
 
 h4,
@@ -25,18 +28,21 @@ h4,
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  font-family: 'Bitter', serif;
 }
 
 h5,
 .text-epsilon {
   @include fs-3;
   color: $grey-dk-200;
+  font-family: 'Bitter', serif;
 }
 
 h6,
 .text-zeta {
   @include fs-2;
   color: $grey-dk-200;
+  font-family: 'Bitter', serif;
 }
 
 li {

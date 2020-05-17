@@ -35,7 +35,9 @@ According to the [WHO](https://www.who.int/news-room/facts-in-pictures/detail/di
 
 ## There are people with disabilities in every target group
 
-Often the question also arises, **do people with disabilities even belong to our target group?** This question can be answered relatively easily with yes. [People with disabilities make up a large percentage of the population](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"}. Excluding these people from your services is questionable, not only from a business point of view. It is also a questionable decision from a human perspective and does not contribute to a good company image.
+<img src="{{ '/assets/images/important/all-user.png' | prepend: site.baseurl }}" alt="Illustration of 2 users" title="Illustration of 2 users"/>
+
+Often the question also arises, **do people with disabilities even belong to our target group?** This question can be answered with yes. People with disabilities make up a [large percentage](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"} of the population. Excluding these people from your services is questionable, not only from a business point of view. It is also a questionable decision from a human perspective and does not contribute to a good company image.
 
 ---
 
@@ -48,5 +50,3 @@ If a website or app is designed and developed with the mindset "Accessible for a
 ## Accessible design does not have to be boring
 
 A prejudice that can be heard again and again is that accessible design is boring and restricts creativity. I am always surprised about this attitude, is UX-Design really just "fancy digital product design"? For me it is rather the identification of problems and solving them. This does not mean that the solution cannot be aesthetically pleasing. But there is more to a well-balanced digital product than just making it beautiful. **There is a strategy behind it for the architecture, for the content, for the code and a for the design**. Besides, the principles of accessible design should be kept in mind by many more designers, so some questionable decisions would not be made in the first place.
-
----
