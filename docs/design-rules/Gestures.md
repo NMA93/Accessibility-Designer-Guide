@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gesturesg
+title: Gestures
 parent: Design rules
 nav_order: 10
 ---

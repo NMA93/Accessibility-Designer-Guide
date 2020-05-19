@@ -14,6 +14,11 @@ nav_order: 5
 The right choice of words is essential when it comes to accessibility.
 {: .fs-6 .fw-300 }
 
+Match between system and the real world
+{: .label .label-black }
+Help and documentation
+{: .label .label-black }
+
 ---
 
 ## Table of contents
@@ -74,15 +79,6 @@ Content should always be reproduced as simply as possible. This improves the use
 - Use illustrations, icons and pictures to make your content easier to understand.
 - Describe concrete examples, this makes it easier for many users to understand the content.
  
----
-
-
-## Make meaningful labels
-
-Unfortunately often in use, links and buttons with labels like: click here and learn more. **For the user such labels are meaningless** and only **understandable in combination with further content.**
-
-'code'
-
 ---
 
 ##### Links

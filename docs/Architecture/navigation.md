@@ -12,6 +12,11 @@ nav_order: 2
 The navigation is the heart of many websites and apps. If mistakes are made there, the user experience is significantly affected. But this does not have to be the case.
 {: .fs-6 .fw-300 }
 
+Consistency and standards
+{: .label .label-black }
+User control and freedom
+{: .label .label-black }
+
 ---
 
 ## Table of contents

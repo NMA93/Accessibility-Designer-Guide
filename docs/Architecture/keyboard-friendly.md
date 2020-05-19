@@ -12,6 +12,11 @@ nav_order: 4
 We usually use the mouse or trackpad to navigate around a website. But not all users can use a website in the way we as designers often imagine.
 {: .fs-6 .fw-300 }
 
+Consistency and standards
+{: .label .label-black }
+Flexibility and efficiency of use
+{: .label .label-black }
+
 ---
 
 ## Table of contents

@@ -11,6 +11,10 @@ nav_order: 3
 
 The structure and dependency of the content on a website gives a product the finishing touch in accessibility.
 {: .fs-6 .fw-300 }
+Match between system and the real world
+{: .label .label-black }
+Aesthetic and minimalist design
+{: .label .label-black }
 
 ---
 
@@ -84,3 +88,12 @@ Make sure that your design can be categorized into the common areas. Clear areas
 
 ### Correct use of the elements
 Use elements correctly and do not complicate your design unnecessarily. An example is overloaded overlays or multi-level nesting in dropdowns. 
+
+---
+
+##### Links
+{: .no_toc }
+
+[developer.mozilla – semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics "developer.mozilla – semantics"){:target="_blank"} <br>
+[w3schools – HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp "w3schools – HTML Semantic Elements"){:target="_blank"} <br>
+[W3C – Using semantic elements to mark up structure](https://www.w3.org/TR/WCAG20-TECHS/G115.html "Using semantic elements to mark up structure"){:target="_blank"} <br>

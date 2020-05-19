@@ -13,6 +13,9 @@ nav_order: 1
 Simple, short and logical ways within the site increase the usability not only for people with disabilities but for all users. But what do you have to consider when creating a website architecture?
 {: .fs-6 .fw-300 }
 
+Consistency and standards
+{: .label .label-black }
+
 ---
 
 ## Table of contents
