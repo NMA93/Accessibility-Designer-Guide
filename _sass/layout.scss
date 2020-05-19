@@ -86,12 +86,14 @@
   padding-top: $gutter-spacing-sm;
   padding-bottom: $gutter-spacing-sm;
   background-color: $white;
+  border-bottom: $border $grey-dk-300;
 
   @include mq(md) {
     display: flex;
     justify-content: flex-end;
     height: $header-height;
     background-color: $white;
+    border-bottom: $border $grey-dk-300;
   }
 
   &.nav-open {

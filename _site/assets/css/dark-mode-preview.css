@@ -179,11 +179,11 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #44434d; border:
 
 @media (min-width: 50rem) { .page { padding-top: 2rem; padding-bottom: 2rem; } }
 
-.page-header { padding-right: 1rem; padding-left: 1rem; display: none; padding-top: 1rem; padding-bottom: 1rem; background-color: #fff; }
+.page-header { padding-right: 1rem; padding-left: 1rem; display: none; padding-top: 1rem; padding-bottom: 1rem; background-color: #fff; border-bottom: 1px solid #27262b; }
 
 @media (min-width: 50rem) { .page-header { padding-right: 2rem; padding-left: 2rem; } }
 
-@media (min-width: 50rem) { .page-header { display: flex; justify-content: flex-end; height: 60px; background-color: #fff; } }
+@media (min-width: 50rem) { .page-header { display: flex; justify-content: flex-end; height: 60px; background-color: #fff; border-bottom: 1px solid #27262b; } }
 
 .page-header.nav-open { display: block; }
 
