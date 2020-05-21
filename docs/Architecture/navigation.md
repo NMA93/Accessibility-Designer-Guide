@@ -16,6 +16,8 @@ Consistency and standards
 {: .label .label-black }
 User control and freedom
 {: .label .label-black }
+Aesthetic and minimalist design
+{: .label .label-black }
 
 ---
 

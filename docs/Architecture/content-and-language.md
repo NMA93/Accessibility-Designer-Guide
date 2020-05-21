@@ -46,12 +46,12 @@ As soon as people are confronted with a topic that is more complex than the envi
  We speak of easily accessible language whenever we need to describe a topic in a simplified way to make it more understandable to a wider audience. Therefore it is important that we enable all users to understand the content of a page. Generally we can define two categories of accessible language. 
 
 ### Understandable Content
-To make content accessible to a wider range of users, including people with disabilities, it is simply a matter of avoiding technical terms. **Technical terms require prior knowledge in most cases. This should never be assumed.**
+To make content accessible to a wider range of users, including people with reading difficulties, it is simply a matter of avoiding technical terms. **Technical terms require prior knowledge in most cases. This should never be assumed.**
 
 ### Easy-to-read
 But sometimes it is not enough to avoid technical terms. There can be various reasons for this:
 
-- When medical information is made available to a broad public, technical terms are often avoided. Nevertheless, people with disabilities may find it difficult to understand such texts. 
+- When medical information is made available to a broad public, technical terms are often avoided. Nevertheless, people with reading disabilities or other disabilities may find it difficult to understand such texts. 
 
 - People who are not fluent in a foreign language find it difficult to understand a text even if technical terms are not included. 
 

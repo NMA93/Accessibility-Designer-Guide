@@ -1,0 +1,61 @@
+I"P<h1 class="no_toc fs-9" id="nested-content">Nested content</h1>
+
+<p class="fs-6 fw-300">Additional content is used when the user should not be confronted with the whole content immediately.  On the one hand the user is not overwhelmed, on the other hand the hiding of content can cause problems.</p>
+
+<p class="label label-black">Consistency and standards</p>
+<p class="label label-black">Aesthetic and minimalist design</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#why-it-is-problematic-to-nest-information" id="markdown-toc-why-it-is-problematic-to-nest-information">Why it is problematic to nest information</a></li>
+  <li><a href="#how-to-nest-content-correctly" id="markdown-toc-how-to-nest-content-correctly">How to nest content correctly</a>    <ol>
+      <li><a href="#announce-the-content-to-be-expected" id="markdown-toc-announce-the-content-to-be-expected">Announce the content to be expected</a></li>
+      <li><a href="#do-not-impair-the-user-experience" id="markdown-toc-do-not-impair-the-user-experience">Do not impair the user experience</a></li>
+      <li><a href="#adapt-the-design-to-the-device" id="markdown-toc-adapt-the-design-to-the-device">Adapt the design to the device</a></li>
+      <li><a href="#display-what-is-active" id="markdown-toc-display-what-is-active">Display what is active</a></li>
+    </ol>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="why-it-is-problematic-to-nest-information">Why it is problematic to nest information</h2>
+
+<p class="mb-8">If content is nested by using tabs, accordions or tool tips, the page appears more organized and structured. However, the complexity of the page and how to use it increases.</p>
+
+<h4 class="no_toc mb-5" id="the-following-problems-may-occur">The following problems may occur:</h4>
+
+<ul>
+  <li>Users overlook content</li>
+  <li>If unsuitable contents are nested, the usability for all users is reduced</li>
+  <li>The demands on cross-device design are increasing</li>
+  <li>For all users and special users with disabilities, the site becomes more complicated to use with screen reader and keyboard</li>
+</ul>
+
+<hr />
+
+<h2 id="how-to-nest-content-correctly">How to nest content correctly</h2>
+<p>Basically nested information are not bad, correctly implemented they can improve the usability of a page. An important part is the implementation of the elements in the code. But also in the design there are certain rules that have to be observed.</p>
+
+<h3 id="announce-the-content-to-be-expected">Announce the content to be expected</h3>
+<p>TBD.</p>
+
+<h3 id="do-not-impair-the-user-experience">Do not impair the user experience</h3>
+<p>TBD.</p>
+
+<h3 id="adapt-the-design-to-the-device">Adapt the design to the device</h3>
+<p>TBD.</p>
+
+<h3 id="display-what-is-active">Display what is active</h3>
+<p>TBD.</p>
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html" title="W3C – Content on Hover or Focus" target="_blank">W3C – Content on Hover or Focus</a> <br />
+<a href="https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html" title="W3C – Accordion" target="_blank">W3C – Accordion</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html" title="W3C – Link Purpose" target="_blank">W3C – Link Purpose</a> <br /></p>
+
+:ET

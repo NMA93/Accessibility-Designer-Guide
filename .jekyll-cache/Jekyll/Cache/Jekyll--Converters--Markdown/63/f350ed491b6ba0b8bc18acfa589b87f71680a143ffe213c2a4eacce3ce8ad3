@@ -1,0 +1,49 @@
+I"�
+<p><img src="/Accessibility-Designer-Guide/assets/images/context/context.png" alt="Illustration of an exclamation mark." title="Illustration of an exclamation mark." /></p>
+
+<h1 class="no_toc fs-9" id="context">Context</h1>
+
+<p class="fs-6 fw-300">When we talk to a person face to face, content is often put into context. In this way misunderstandings can be avoided. The same is applicable to content on the web. If the context is not given, users cannot classify the meaning of individual elements.</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#why-the-context-on-a-website-is-important" id="markdown-toc-why-the-context-on-a-website-is-important">Why the context on a website is important</a></li>
+  <li><a href="#set-titles-everywhere" id="markdown-toc-set-titles-everywhere">Set titles, everywhere</a></li>
+  <li><a href="#make-meaningful-labels" id="markdown-toc-make-meaningful-labels">Make meaningful labels</a></li>
+</ol>
+
+<hr />
+
+<h2 id="why-the-context-on-a-website-is-important">Why the context on a website is important</h2>
+<p>Page titles are essential to enable all users to quickly identify the content of a website. On the one hand, pages must be marked with the <code class="highlighter-rouge">&lt;title&gt;</code> element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing <code class="highlighter-rouge">&lt;h1&gt;</code> title (main title), so that people with visual impairments or with memory weaknesses can put the pages into context faster.</p>
+
+<p class="mb-8">Translated with www.DeepL.com/Translator (free version)</p>
+
+<h4 class="no_toc" id="the-following-examples-illustrate-the-importance-of-context">The following examples illustrate the importance of context:</h4>
+
+<hr />
+
+<h2 id="set-titles-everywhere">Set titles, everywhere</h2>
+
+<p>TBD.</p>
+
+<hr />
+
+<h2 id="make-meaningful-labels">Make meaningful labels</h2>
+
+<p>Unfortunately often in use, links and buttons with labels like: click here and learn more. <strong>For the user such labels are meaningless</strong> and only <strong>understandable in combination with further content.</strong></p>
+
+<p>‘code’</p>
+
+<hr />
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html" title="W3C – Page Titled" target="_blank">W3C – Page Titled</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html" title="W3C – Section Headings" target="_blank">W3C – Section Headings</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html" title="W3C – Link Purpose" target="_blank">W3C – Link Purpose</a> <br /></p>
+
+:ET
