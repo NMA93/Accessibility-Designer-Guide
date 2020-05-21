@@ -1,0 +1,63 @@
+I"<h1 class="no_toc fs-9" id="processes">Processes</h1>
+
+<p class="fs-6 fw-300">If the user is in a process on the site, he puts himself in our hands. He trusts that the steps he follows will lead him to the goal. Therefore it is very important for us as designers to make this process as pleasant as possible for all user groups.</p>
+
+<p class="label label-black">Visibility of system status</p>
+<p class="label label-black">User control and freedom</p>
+<p class="label label-black">Aesthetic and minimalist design</p>
+<p class="label label-black">Help users recognize, diagnose, and recover from errors</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#what-is-the-problem-with-processes" id="markdown-toc-what-is-the-problem-with-processes">What is the problem with processes</a></li>
+  <li><a href="#guide-the-user" id="markdown-toc-guide-the-user">Guide the user</a>    <ol>
+      <li><a href="#show-how-easy-it-is" id="markdown-toc-show-how-easy-it-is">Show how easy it is</a></li>
+    </ol>
+  </li>
+  <li><a href="#show-only-what-is-important-right-now" id="markdown-toc-show-only-what-is-important-right-now">Show only what is important right now</a></li>
+  <li><a href="#give-the-user-control" id="markdown-toc-give-the-user-control">Give the user control</a>    <ol>
+      <li><a href="#edit-selection-afterwards" id="markdown-toc-edit-selection-afterwards">Edit selection afterwards</a></li>
+      <li><a href="#the-process-can-be-stopped-at-any-time" id="markdown-toc-the-process-can-be-stopped-at-any-time">The process can be stopped at any time</a></li>
+    </ol>
+  </li>
+  <li><a href="#give-the-user-confirmation" id="markdown-toc-give-the-user-confirmation">Give the user confirmation</a></li>
+</ol>
+
+<hr />
+
+<h2 id="what-is-the-problem-with-processes">What is the problem with processes</h2>
+
+<h2 id="guide-the-user">Guide the user</h2>
+<p>TBD.</p>
+
+<h3 id="show-how-easy-it-is">Show how easy it is</h3>
+
+<hr />
+
+<h2 id="show-only-what-is-important-right-now">Show only what is important right now</h2>
+
+<p>TBD.</p>
+
+<hr />
+
+<h2 id="give-the-user-control">Give the user control</h2>
+
+<h3 id="edit-selection-afterwards">Edit selection afterwards</h3>
+
+<h3 id="the-process-can-be-stopped-at-any-time">The process can be stopped at any time</h3>
+
+<hr />
+
+<h2 id="give-the-user-confirmation">Give the user confirmation</h2>
+
+<hr />
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html" title="W3C – Accordion" target="_blank">W3C – Accordion</a> <br />
+<a href="https://www.w3.org/TR/wai-aria-practices/examples/disclosure/disclosure-faq.html" title="W3C – Example Disclosure (Show/Hide)" target="_blank">W3C – Example Disclosure (Show/Hide)</a> <br /></p>
+
+:ET

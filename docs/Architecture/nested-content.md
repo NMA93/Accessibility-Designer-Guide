@@ -58,7 +58,7 @@ After the tabs are clearly labeled, it is clear to the user what to expect behin
 {: .fs-2 .fw-800 .mb-6 }
 
 ### Do not nest important functions
-If content is nested, it must not be an essential part of the operation of the site. The operability of the site must not suffer. Otherwise it can be confusing for the users, because they cannot find important functions.
+If content is nested, it should not be an essential part of the operation of the site. The operability of the site must not suffer. Otherwise it can be confusing for the users, because they cannot find important functions.
 
 ![](//placehold.it/800x400)
 Since the CTA button is located inside the accordion, it is easily overlooked. Furthermore, for users with Screen Reader, an important function is unnecessarily nested.
@@ -68,12 +68,22 @@ Since the CTA button is located inside the accordion, it is easily overlooked. F
 Important elements should be placed on a higher level outside the nested elements.
 {: .fs-2 .fw-800 .mb-6 }
 
-### Adapt the design to the device
-TBD.
-
 ### Display what is active
-TBD.
+If information is nested, it is important to show the user which elements are currently active. Often a colourful highlighting is sufficient, optimnally this is supported by backgrounds. This allows the user to set the content in context more easily. See also chapter [Context](/Accessibility-Designer-Guide/docs/Architecture/context/). 
+{: .mb-8 }
 
+#### the following example shows the problem
+{: .no_toc .mb-5 }
+
+![](//placehold.it/800x400)
+We see here a highlighting of the active tab, but it is not clear enough for all users. People with disabilities or inexperienced internet users will not recognize this element as a tab.
+{: .fs-2 .fw-800 .mb-6 }
+
+![](//placehold.it/800x400)
+Through a clear subdivision of the background, the user can see more quickly what kind of pattern this is. The element is immediately recognized as tab.
+{: .fs-2 .fw-800 .mb-6 }
+
+---
 
 ##### Links
 {: .no_toc }

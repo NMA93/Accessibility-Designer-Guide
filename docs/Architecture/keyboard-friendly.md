@@ -81,4 +81,6 @@ A very important feature when operating websites through the keyboard are hidden
 ##### Links
 {: .no_toc }
 
-[W3C – Guideline 2.1 – Keyboard Accessible](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#keyboard-accessible "Guideline 2.1 – Keyboard Accessible")
+[W3C – Keyboard Accessible](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#keyboard-accessible "W3C – Keyboard Accessible") <br>
+[W3C – Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible "W3C – Focus Visible"){:target="_blank"} <br>
+[W3C – Bypass Blocks](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks "W3C – Bypass Blocks"){:target="_blank"} <br>

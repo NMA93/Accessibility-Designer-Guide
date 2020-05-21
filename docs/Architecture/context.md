@@ -88,6 +88,17 @@ For the user such labels are meaningless, even in the context of the content it 
 With a content describing label it is now clear what kind of action is behind the button or link. The user can even see what is triggered by the elements without reading the content. **This is useful for people who navigate through a page with a screen reader**.
 </div>
 
+---
+
+## Active and inactive status
+It is also a matter of context if we only show certain contents of a page by interaction. The user must be able to determine the connection between trigger and appearing content at any time. Active elements should therefore always be highlighted. See also chapter [Nested content](/Accessibility-Designer-Guide/docs/Architecture/nested-content/) to get more detailed information on this topic. 
+{: .mb-8 }
+ 
+
+![](//placehold.it/800x400)
+TBD.
+{: .fs-2 .fw-800 .mb-6 }
+
 
 ---
 
@@ -97,4 +108,5 @@ With a content describing label it is now clear what kind of action is behind th
 [W3C – Page Titled](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html "W3C – Page Titled"){:target="_blank"} <br>
 [W3C – Section Headings](https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html "W3C – Section Headings"){:target="_blank"} <br>
 [W3C – Link Purpose](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html "W3C – Link Purpose"){:target="_blank"} <br>
+[W3C – Accordion](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html "W3C – Accordion"){:target="_blank"} <br>
 

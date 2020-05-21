@@ -65,4 +65,10 @@ UI components with the **same function should always have the same appearance**.
 ##### Links
 {: .no_toc }
 
-[Nielsen Norman Group – 10 Heuristics ](https://www.nngroup.com/articles/ten-usability-heuristics/ "NNgroup's Homepage"){:target="_blank"}
+[W3C – Bypass Blocks](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks "W3C – Bypass Blocks"){:target="_blank"} <br>
+[W3C – Page Titled](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html "W3C – Page Titled"){:target="_blank"} <br>
+[W3C – Section Headings](https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html "W3C – Section Headings"){:target="_blank"} <br>
+[W3C – Link Purpose](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html "W3C – Link Purpose"){:target="_blank"} <br>
+[W3C – Multiple Ways](https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways "W3C – Multiple Ways"){:target="_blank"} <br>
+[W3C – Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible "W3C – Focus Visible"){:target="_blank"} <br>
+[W3C – Location](https://www.w3.org/WAI/WCAG21/Understanding/location "W3C – Location"){:target="_blank"} <br>
