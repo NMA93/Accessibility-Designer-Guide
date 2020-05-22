@@ -18,10 +18,6 @@ Consistency and standards
 
 ---
 
-<img src="{{ '/assets/images/avatar/nils.png' | prepend: site.baseurl }}"  alt="Picture – Author: Nils Mäder" class="avatar"> Author: [Nils Mäder](https://www.linkedin.com/in/nils-mäder-64b6b6188 "Linkedin – Nils Mäder"){:target="_blank"}
-
----
-
 ## Table of contents
 {: .no_toc .text-delta }
 
