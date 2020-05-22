@@ -26,6 +26,19 @@ When it comes to colours, many websites die in beauty. Often CI colours for prin
 
 According to [WHO](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment/ "WHO Blindness and vision impairment report"){:target="_blank"} in 2020 there are 2.2 billion people with impaired vision. Of these, 300 million people are affected by colour blindness in various forms. And for this reason, designers should definitely think about colors and contrasts. **With little effort, the accessibility of a page can be massively improved**. 
 
+<div id="container1">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/heuristics/flexibility.png' | prepend: site.baseurl }}" alt="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation." title="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/heuristics/minimalism.png' | prepend: site.baseurl }}" alt="In this picture you can see a login screen reduced to the minimum of ui-elements." title="In this picture you can see a login screen reduced to the minimum of ui-elements."/>
+</div>
+
+<script>
+$(function(){
+  $("#container1").twentytwenty();
+});
+</script>
+
 ---
 
 ## Give your site enough contrast
@@ -38,12 +51,11 @@ There are countless tools for checking the contrast of elements and text, one of
 
 ---
 
-## Do not make important information dependent on their colour
+## Do not make information dependent on their colour
 
 To understand what exactly is meant here, let's look at a typical example of a common error of information and dependence on colour. Everyone knows system status messages or error messages. 
 
 ![](//placehold.it/800x200)
-
 
 Users with a common form of colour blindness, for example the inability to distinguish between the colours red and green, see this example as follows.
 

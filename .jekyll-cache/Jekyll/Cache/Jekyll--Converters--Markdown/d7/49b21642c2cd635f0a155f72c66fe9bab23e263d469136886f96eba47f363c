@@ -1,0 +1,59 @@
+I"�<h1 class="no_toc fs-9" id="support-through-the-system">Support through the system</h1>
+
+<p class="fs-6 fw-300">People with disabilities tend to trigger wrong actions more often than users without disabilities. Therefore it is helpful to plan the system in such a way that mistakes can be avoided already in their beginning.</p>
+
+<p class="label label-black">Error prevention</p>
+<p class="label label-black">Help users recognize, diagnose, and recover from errors</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#error-avoidance-through-restrictions" id="markdown-toc-error-avoidance-through-restrictions">Error avoidance through restrictions</a></li>
+  <li><a href="#error-avoidance-through-support" id="markdown-toc-error-avoidance-through-support">Error avoidance through support</a></li>
+  <li><a href="#error-avoidance-through-repetition" id="markdown-toc-error-avoidance-through-repetition">Error avoidance through repetition</a></li>
+  <li><a href="#not-all-options-are-always-available" id="markdown-toc-not-all-options-are-always-available">Not all options are always available</a></li>
+</ol>
+
+<hr />
+
+<h2 id="error-avoidance-through-restrictions">Error avoidance through restrictions</h2>
+<p>One possible way to avoid errors is to limit the user’s options. By limiting the input possibilities, the error rate of a system is reduced. For users with limitations, it is more clear what is required of them.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+In this example with a date, the format of the input is already predefined, plus only the input of numbers is allowed.</p>
+
+<hr />
+
+<h2 id="error-avoidance-through-support">Error avoidance through support</h2>
+<p>Not only when users are disabled, it can happen that errors are created while information is being entered. This should not be a problem for the user, as a good example of this, searches should be considered. Often suggestions are made while typing. These suggestions also correct typing errors. This avoids empty search results.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+The automatic search completion reduces the chance of errors during input.</p>
+
+<hr />
+
+<h2 id="error-avoidance-through-repetition">Error avoidance through repetition</h2>
+<p>By repeatedly requesting information, the user is forced to verify the information entered. In addition, the system can detect errors by comparing the information and alert the user.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+A good example of this is repeating e-mail and password. This helps to avoid errors when creating accounts.</p>
+
+<hr />
+
+<h2 id="not-all-options-are-always-available">Not all options are always available</h2>
+<p>Certain actions are dependent on other factors. For example, as a private user I need other input fields like an organization. Therefore it makes sense not to display them for both users. It is better to separate both input variants. For example with a radio button. This way the user is not overwhelmed with too much information.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+Another example are inactive elements that only become active once everything has been recorded. This way the user knows that he can now proceed to the next step.</p>
+
+<hr />
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/input-assistance" title="W3C – Input Assistance" target="_blank">W3C – Input Assistance</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/error-identification" title="W3C – Error Identification" target="_blank">W3C – Error Identification</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data" title="W3C – Error Prevention" target="_blank">W3C – Error Prevention</a> <br /></p>
+
+:ET

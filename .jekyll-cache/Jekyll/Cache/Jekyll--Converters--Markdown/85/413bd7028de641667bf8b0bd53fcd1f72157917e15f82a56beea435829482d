@@ -1,0 +1,59 @@
+I"/<h1 class="no_toc fs-9" id="colours">Colours</h1>
+
+<p class="fs-6 fw-300">When it comes to colours, many websites die in beauty. Often CI colours for print are taken over 1:1 into the web and this does not always work very well for people with impaired vision.</p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#it-affects-more-people-than-you-think" id="markdown-toc-it-affects-more-people-than-you-think">It affects more people than you think</a></li>
+  <li><a href="#give-your-site-enough-contrast" id="markdown-toc-give-your-site-enough-contrast">Give your site enough contrast</a></li>
+  <li><a href="#do-not-make-information-dependent-on-their-colour" id="markdown-toc-do-not-make-information-dependent-on-their-colour">Do not make information dependent on their colour</a></li>
+</ol>
+
+<hr />
+
+<h2 id="it-affects-more-people-than-you-think">It affects more people than you think</h2>
+
+<p>According to <a href="https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment/" title="WHO Blindness and vision impairment report" target="_blank">WHO</a> in 2020 there are 2.2 billion people with impaired vision. Of these, 300 million people are affected by colour blindness in various forms. And for this reason, designers should definitely think about colors and contrasts. <strong>With little effort, the accessibility of a page can be massively improved</strong>.</p>
+
+<div id="container1">
+ <!-- The before image is first -->
+ <img src="http://placehold.it/800x600&amp;text=1" />
+ <!-- The after image is last -->
+ <img src="http://placehold.it/800x600&amp;text=2" />
+</div>
+
+<script>
+$(function(){
+  $("#container1").twentytwenty();
+});
+</script>
+
+<hr />
+
+<h2 id="give-your-site-enough-contrast">Give your site enough contrast</h2>
+
+<p>According to the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html/" title="W3C guidelines">W3C</a>  guidelines, the contrast of text of normal size (approx. 13px - 17px) must have a contrast ratio of at least <strong>4.5:1</strong>. From 18px and larger font sizes, the text must have a contrast ratio of at least <strong>3:1</strong>.</p>
+
+<p>Graphic objects and UI components should generally have a contrast ratio of <strong>3:1</strong>.</p>
+
+<p>There are countless tools for checking the contrast of elements and text, one of my favourite tools is the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" title="Colour Contrast Analyser Tool">Colour Contrast Analyser</a> from the paciello group.</p>
+
+<hr />
+
+<h2 id="do-not-make-information-dependent-on-their-colour">Do not make information dependent on their colour</h2>
+
+<p>To understand what exactly is meant here, let’s look at a typical example of a common error of information and dependence on colour. Everyone knows system status messages or error messages.</p>
+
+<p><img src="//placehold.it/800x200" alt="" /></p>
+
+<p>Users with a common form of colour blindness, for example the inability to distinguish between the colours red and green, see this example as follows.</p>
+
+<p><img src="//placehold.it/800x200" alt="" /></p>
+
+<p>By adding an icon and text, the colour dependency is resolved and the user knows more quickly what this scenario is about.</p>
+
+<p><img src="//placehold.it/800x200" alt="" /></p>
+:ET
