@@ -5,15 +5,14 @@ parent: Accessibility in general
 nav_order: 1
 ---
 
-<img src="{{ '/assets/images/important.png' | prepend: site.baseurl }}" alt="Title Picture Why it is important" title="Title Picture Why it is important"/>
-
-
 # Why it is important
 {: .fs-9 }
 {: .no_toc }
 
 Accessibility has become increasingly important in recent years. Due to the increasing digitalization in all areas, more and more people are using digital solutions. Nevertheless, the approach “Internet for all” is still not lived enough.
 {: .fs-6 .fw-300 }
+
+<img src="{{ '/assets/images/important.png' | prepend: site.baseurl }}" alt="Title Picture Why it is important" title="Title Picture Why it is important"/>
 
 ---
 

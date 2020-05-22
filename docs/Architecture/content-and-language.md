@@ -5,8 +5,6 @@ parent: Architecture
 nav_order: 5
 ---
 
-<img src="{{ '/assets/images/language/language.png' | prepend: site.baseurl }}" alt="Illustration of a confused person under a speech bubble." title="Illustration of a confused person under a speech bubble."/>
-
 # Content and language
 {: .no_toc }
 {: .fs-9 }
@@ -18,6 +16,9 @@ Match between system and the real world
 {: .label .label-black }
 Help and documentation
 {: .label .label-black }
+
+<img src="{{ '/assets/images/language/language.png' | prepend: site.baseurl }}" alt="Illustration of a confused person under a speech bubble." title="Illustration of a confused person under a speech bubble."/>
+{: .mt-6 }
 
 ---
 

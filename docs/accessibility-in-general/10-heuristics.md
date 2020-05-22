@@ -5,14 +5,14 @@ parent: Accessibility in general
 nav_order: 3
 ---
 
-<img src="{{ '/assets/images/heuristics.png' | prepend: site.baseurl }}" alt="Title Picture Heuristics" title="Title Picture Heuristics"/>
-
 # 10 Heuristics of Jakob Nielsen
 {: .fs-9 }
 {: .no_toc }
 
-If there is such a thing as a generally accepted guide to good usability, then these are the 10 interaction design principles of Jakob Nielsen.
+If there is such a thing as a generally accepted guide to good usability, then these are the 10 interaction design principles of Jakob Nielsen. If the heuristics are **followed from the beginning, many accessibility problems can be avoided**.
 {: .fs-6 .fw-300 }
+
+<img src="{{ '/assets/images/heuristics.png' | prepend: site.baseurl }}" alt="Title Picture Heuristics" title="Title Picture Heuristics"/>
 
 ---
 
@@ -21,13 +21,6 @@ If there is such a thing as a generally accepted guide to good usability, then t
 
 1. TOC
 {:toc}
-
----
-
-## Established rule for good usability
-{: .no_toc }
-
-The heuristics are actually more of a rule of thumb for experts to detect as many usability errors in a system as possible. It therefore only makes sense that designers and information architects follow this rule during the design process of such a system. If the heuristics are **followed from the beginning, many accessibility problems can be avoided**.
 
 ---
 

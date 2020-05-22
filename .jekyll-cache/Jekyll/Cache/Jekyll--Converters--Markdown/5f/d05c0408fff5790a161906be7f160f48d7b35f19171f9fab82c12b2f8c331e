@@ -1,0 +1,91 @@
+I"�<h1 class="no_toc fs-9" id="context">Context</h1>
+
+<p class="fs-6 fw-300">When we talk to a person face to face, content is often put into context. In this way misunderstandings can be avoided. The same is applicable to content on the web. If the context is not given, users cannot classify the meaning of individual elements.</p>
+
+<p class="label label-black">Consistency and standards</p>
+<p class="label label-black">Recognition rather than recall</p>
+<p class="label label-black">Aesthetic and minimalist design</p>
+
+<p class="mt-6"><img src="/Accessibility-Designer-Guide/assets/images/context/context.png" alt="Illustration of an exclamation mark." title="Illustration of an exclamation mark." /></p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#why-the-context-on-a-website-is-important" id="markdown-toc-why-the-context-on-a-website-is-important">Why the context on a website is important</a></li>
+  <li><a href="#set-titles-everywhere" id="markdown-toc-set-titles-everywhere">Set titles, everywhere</a></li>
+  <li><a href="#make-meaningful-labels" id="markdown-toc-make-meaningful-labels">Make meaningful labels</a></li>
+  <li><a href="#active-and-inactive-status" id="markdown-toc-active-and-inactive-status">Active and inactive status</a></li>
+</ol>
+
+<hr />
+
+<h2 id="why-the-context-on-a-website-is-important">Why the context on a website is important</h2>
+<p class="mb-8">Page titles are essential to enable all users to quickly identify the content of a website. On the one hand, pages must be marked with the <code class="highlighter-rouge">&lt;title&gt;</code> element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing <code class="highlighter-rouge">&lt;h1&gt;</code> title (main title), so that people with visual impairments or with memory weaknesses can put the pages into context faster.</p>
+
+<h4 class="no_toc mb-5" id="the-following-examples-illustrate-the-importance-of-context">The following examples illustrate the importance of context:</h4>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+TBD.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+TBD.</p>
+
+<hr />
+
+<h2 id="set-titles-everywhere">Set titles, everywhere</h2>
+<p>That means for us as designers, titles are essential to improve the usability of a website. Therefore it makes sense to give each new section of a website or app a title that is appropriate to its content, in addition to the <code class="highlighter-rouge">&lt;h1&gt;</code> title. This has the following advantages.</p>
+
+<ul>
+  <li>Blind users notice the change to a new section within a page and can associate the content.</li>
+  <li>Users who navigate using the keyboard can easily skip from one section to another.</li>
+  <li>The risk of creating misunderstandings on the site through unclear sections is minimized.</li>
+</ul>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+TBD.</p>
+
+<hr />
+
+<h2 id="make-meaningful-labels">Make meaningful labels</h2>
+
+<p class="mb-8">Not only pages and sections need titles that match the content. Also for links and buttons it is important that they show the action behind them. So all users and especially blind users can skip links that are not interesting for them.</p>
+
+<h4 class="no_toc mb-5" id="the-following-examples-illustrate-the-importance-of-meaningful-labels">The following examples illustrate the importance of meaningful labels:</h4>
+
+<div class="code-example">
+
+  <p><a href="http://example.com/" class="btn">More</a> <br />
+<a href="http://example.com/" title="Start" target="_blank">Start</a></p>
+
+  <p>For the user such labels are meaningless, even in the context of the content it is difficult to see what is behind the button or link.  It should be avoided that the user has to read additional text to understand simple buttons and links.</p>
+
+</div>
+
+<div class="code-example">
+
+  <p><a href="http://example.com/" class="btn">Learn more about accessibility</a> <br />
+<a href="http://example.com/" title="start your project now" target="_blank">start your project now</a></p>
+
+  <p>With a content describing label it is now clear what kind of action is behind the button or link. The user can even see what is triggered by the elements without reading the content. <strong>This is useful for people who navigate through a page with a screen reader</strong>.</p>
+</div>
+
+<hr />
+
+<h2 id="active-and-inactive-status">Active and inactive status</h2>
+<p class="mb-8">It is also a matter of context if we only show certain contents of a page by interaction. The user must be able to determine the connection between trigger and appearing content at any time. Active elements should therefore always be highlighted. See also chapter <a href="/Accessibility-Designer-Guide/docs/Architecture/nested-content/">Nested content</a> to get more detailed information on this topic.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+TBD.</p>
+
+<hr />
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html" title="W3C – Page Titled" target="_blank">W3C – Page Titled</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html" title="W3C – Section Headings" target="_blank">W3C – Section Headings</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only.html" title="W3C – Link Purpose" target="_blank">W3C – Link Purpose</a> <br />
+<a href="https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html" title="W3C – Accordion" target="_blank">W3C – Accordion</a> <br /></p>
+
+:ET

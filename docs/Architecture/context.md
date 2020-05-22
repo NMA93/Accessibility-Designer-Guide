@@ -5,8 +5,6 @@ parent: Architecture
 nav_order: 6
 ---
 
-<img src="{{ '/assets/images/context/context.png' | prepend: site.baseurl }}" alt="Illustration of an exclamation mark." title="Illustration of an exclamation mark."/>
-
 # Context
 {: .no_toc }
 {: .fs-9 }
@@ -20,6 +18,9 @@ Recognition rather than recall
 {: .label .label-black }
 Aesthetic and minimalist design
 {: .label .label-black }
+
+<img src="{{ '/assets/images/context/context.png' | prepend: site.baseurl }}" alt="Illustration of an exclamation mark." title="Illustration of an exclamation mark."/>
+{: .mt-6 }
 
 ---
 

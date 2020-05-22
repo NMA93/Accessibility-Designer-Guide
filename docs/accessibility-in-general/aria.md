@@ -5,8 +5,6 @@ parent: Accessibility in general
 nav_order: 2
 ---
 
-<img src="{{ '/assets/images/ARIA.png' | prepend: site.baseurl }}" alt="Title Picture ARIA" title="Title Picture ARIA"/>
-
 # ARIA
 {: .no_toc }
 {: .fs-9 }
@@ -14,7 +12,10 @@ nav_order: 2
 Accessible Rich Internet Applications (ARIA) allow web developers to make web content more accessible to people with disabilities and other limitations. 
 {: .fs-6 .fw-300 }
 
+<img src="{{ '/assets/images/ARIA.png' | prepend: site.baseurl }}" alt="Title Picture ARIA" title="Title Picture ARIA"/>
+
 ---
+
 
 ## Table of contents
 {: .no_toc .text-delta }

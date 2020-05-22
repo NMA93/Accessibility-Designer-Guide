@@ -1,0 +1,92 @@
+I"1<h1 class="no_toc fs-9" id="processes">Processes</h1>
+
+<p class="fs-6 fw-300">If the user is in a process on the site, he puts himself in our hands. He trusts that the steps he follows will lead him to the goal. Therefore it is very important for us as designers to make this process as pleasant as possible for all user groups.</p>
+
+<p class="label label-black">Visibility of system status</p>
+<p class="label label-black">User control and freedom</p>
+<p class="label label-black">Aesthetic and minimalist design</p>
+<p class="label label-black">Help users recognize, diagnose, and recover from errors</p>
+
+<hr />
+<p><img src="/Accessibility-Designer-Guide/assets/images/avatar/nils.png" alt="Picture – Author: Nils Mäder" class="avatar" /> Author:<a href="www.linkedin.com/in/nils-mäder-64b6b6188" title="Linkedin – Nils Mäder" target="_blank">Nils Mäder</a></p>
+
+<hr />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#what-is-the-problem-with-processes" id="markdown-toc-what-is-the-problem-with-processes">What is the problem with processes</a></li>
+  <li><a href="#guide-the-user" id="markdown-toc-guide-the-user">Guide the user</a>    <ol>
+      <li><a href="#show-only-what-is-important-right-now" id="markdown-toc-show-only-what-is-important-right-now">Show only what is important right now</a></li>
+      <li><a href="#show-how-easy-it-is" id="markdown-toc-show-how-easy-it-is">Show how easy it is</a></li>
+    </ol>
+  </li>
+  <li><a href="#give-the-user-control" id="markdown-toc-give-the-user-control">Give the user control</a>    <ol>
+      <li><a href="#give-the-user-confirmation" id="markdown-toc-give-the-user-confirmation">Give the user confirmation</a></li>
+      <li><a href="#edit-selection-afterwards" id="markdown-toc-edit-selection-afterwards">Edit selection afterwards</a></li>
+      <li><a href="#the-process-can-be-stopped-at-any-time" id="markdown-toc-the-process-can-be-stopped-at-any-time">The process can be stopped at any time</a></li>
+    </ol>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="what-is-the-problem-with-processes">What is the problem with processes</h2>
+<p class="mb-8">If the user enters a process on a website or in an app, he trusts the system. However, there should never be a feeling that control has been relinquished or that errors may have consequences.</p>
+
+<h4 class="no_toc mb-5" id="a-process-can-pose-problems-for-certain-user-groups">A process can pose problems for certain user groups:</h4>
+
+<ul>
+  <li>Inexperienced or older users feel insecure.</li>
+  <li>People with screen readers find it hard to find their way around if processes are not implemented correctly.</li>
+  <li>People with physical impairments feel insecure if they accidentally click something wrong in a process.</li>
+</ul>
+
+<hr />
+
+<h2 id="guide-the-user">Guide the user</h2>
+<p>The easiest way to make a process barrier-free is to take the user by the hand. By leading a process, especially users with disabilities or inexperienced users feel more secure in their actions. But what are the possibilities to design a guided process?</p>
+
+<h3 id="show-only-what-is-important-right-now">Show only what is important right now</h3>
+<p class="mb-8">We should always show only what we demand from the user.  In this moment this is the most important thing for the user. Therefore we design the process in such a way that the focus is on this one current step.</p>
+
+<h4 class="no_toc mb-5" id="the-following-example-shows-the-problem">the following example shows the problem</h4>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+In this example, all steps are listed below each other. Although it is pointed out that the previous step still needs to be filled in, such a process is not clear to all users.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+In this example we only show what is necessary and give the user the possibility to jump to the previous step if desired. For the user this screen is more clearly arranged.</p>
+
+<h3 id="show-how-easy-it-is">Show how easy it is</h3>
+<p>To give the user even more confidence, the past, current and upcoming steps can be listed in a reduced form. This makes it clear to the user where he is at the moment.</p>
+
+<hr />
+
+<h2 id="give-the-user-control">Give the user control</h2>
+<p>People with disabilities, elderly user or people with visual impairments can quickly make false or unwanted interactions. Therefore we should always give users the opportunity to correct their mistakes.</p>
+
+<h3 id="give-the-user-confirmation">Give the user confirmation</h3>
+<p>For a user to feel confirmed, it makes sense to show a summary of the steps to be performed. A classic example of this is a shopping cart that is listed again, or a list of all pictures that are sent.</p>
+
+<h3 id="edit-selection-afterwards">Edit selection afterwards</h3>
+<p>If we show the user a summary, this is ideally also editable.  This allows users to correct any mistakes.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+In this process the individual items can be edited or removed again.</p>
+
+<h3 id="the-process-can-be-stopped-at-any-time">The process can be stopped at any time</h3>
+<p>Errors happen, and people with disabilities can quickly trigger unwanted actions. It is therefore recommended that processes can be stopped at any time. The system must be as tolerant of errors as possible.</p>
+
+<p class="fs-2 fw-800 mb-6"><img src="//placehold.it/800x400" alt="" />
+In this example the upload can be stopped at any time.</p>
+
+<hr />
+
+<h5 class="no_toc" id="links">Links</h5>
+
+<p><a href="https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html" title="W3C – Accordion" target="_blank">W3C – Accordion</a> <br />
+<a href="https://www.w3.org/TR/wai-aria-practices/examples/disclosure/disclosure-faq.html" title="W3C – Example Disclosure (Show/Hide)" target="_blank">W3C – Example Disclosure (Show/Hide)</a> <br />
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/input-assistance" title="W3C – Input Assistance" target="_blank">W3C – Input Assistance</a> <br /></p>
+
+:ET

@@ -1,0 +1,17 @@
+I"Ç<h1 class="fs-11" id="-welcome-to-the-accessibility-designer-guide-v10">ðŸ‘‹ Welcome to the Accessibility Designer Guide! v1.0</h1>
+<p class="label label-black">Last Update: 18.06.2020</p>
+
+<p class="fs-6 fw-300">If you are interested in barrier-free design and you need design guidelines to support you during the process, then you have come to the right place.</p>
+
+<hr />
+
+<h2 id="about-this-guide">About this guide</h2>
+<p>In this guide I try to answer as many questions as possible about Accessibility Design based on existing guidelines <a href="https://www.w3.org/WAI/standards-guidelines" title="W3C Website" target="_blank">W3C</a> and my personal experience. Before you jump into the topic you should know that this guide is limited to design only and does not cover the topic of code. It does partly relate to code, but only superficially.</p>
+
+<hr />
+
+<h3 id="contributing">Contributing</h3>
+
+<p>When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in <a href="https://github.com/NMA93/Accessibility-Designer-Guide">our GitHub repo</a>.</p>
+:ET

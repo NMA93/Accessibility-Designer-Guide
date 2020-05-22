@@ -71,13 +71,23 @@ To give the user even more confidence, the past, current and upcoming steps can 
 People with disabilities, elderly user or people with visual impairments can quickly make false or unwanted interactions. Therefore we should always give users the opportunity to correct their mistakes.
 
 ### Give the user confirmation
+For a user to feel confirmed, it makes sense to show a summary of the steps to be performed. A classic example of this is a shopping cart that is listed again, or a list of all pictures that are sent.
 
 
 ### Edit selection afterwards
+If we show the user a summary, this is ideally also editable.  This allows users to correct any mistakes.
+
+![](//placehold.it/800x400)
+In this process the individual items can be edited or removed again.
+{: .fs-2 .fw-800 .mb-6 }
 
 
 ### The process can be stopped at any time
+Errors happen, and people with disabilities can quickly trigger unwanted actions. It is therefore recommended that processes can be stopped at any time. The system must be as tolerant of errors as possible.
 
+![](//placehold.it/800x400)
+In this example the upload can be stopped at any time.
+{: .fs-2 .fw-800 .mb-6 }
 
 ---
 
@@ -86,6 +96,7 @@ People with disabilities, elderly user or people with visual impairments can qui
 
 [W3C – Accordion](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html "W3C – Accordion"){:target="_blank"} <br>
 [W3C – Example Disclosure (Show/Hide)](https://www.w3.org/TR/wai-aria-practices/examples/disclosure/disclosure-faq.html "W3C – Example Disclosure (Show/Hide)"){:target="_blank"} <br>
+[W3C – Input Assistance](https://www.w3.org/WAI/WCAG21/Understanding/input-assistance "W3C – Input Assistance"){:target="_blank"} <br>
 
 
 
