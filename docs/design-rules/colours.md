@@ -26,18 +26,6 @@ When it comes to colours, many websites die in beauty. Often CI colours for prin
 
 According to [WHO](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment/ "WHO Blindness and vision impairment report"){:target="_blank"} in 2020 there are 2.2 billion people with impaired vision. Of these, 300 million people are affected by colour blindness in various forms. And for this reason, designers should definitely think about colors and contrasts. **With little effort, the accessibility of a page can be massively improved**. 
 
-<div id="container1">
- <!-- The before image is first -->
- <img src="{{ '/assets/images/heuristics/flexibility.png' | prepend: site.baseurl }}" alt="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation." title="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation."/>
- <!-- The after image is last -->
- <img src="{{ '/assets/images/heuristics/minimalism.png' | prepend: site.baseurl }}" alt="In this picture you can see a login screen reduced to the minimum of ui-elements." title="In this picture you can see a login screen reduced to the minimum of ui-elements."/>
-</div>
-
-<script>
-$(function(){
-  $("#container1").twentytwenty();
-});
-</script>
 
 ---
 
@@ -48,6 +36,21 @@ According to the [W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-c
 Graphic objects and UI components should generally have a contrast ratio of **3:1**.
 
 There are countless tools for checking the contrast of elements and text, one of my favourite tools is the [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/ "Colour Contrast Analyser Tool") from the paciello group.
+{: .mb-8 }
+
+#### The following example shows what effect a carefully chosen contrast has on the page:
+{: .no_toc .mb-5 }
+
+<div id="container1">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/color/contrast-none.png' | prepend: site.baseurl }}" alt="In this picture you can see a User Interface (UI) which is not conform to the WCAG standard."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/color/contrast-aa.png' | prepend: site.baseurl }}" alt="In this picture you can see a User Interface (UI) which is conform to the WCAG AA standard."/>
+</div>
+{: .mb-3 }
+
+On the left side, the User Interface (UI) does not conform to any Web Content Accessibility Guidelines (WCAG) standard, while on the right side it conforms to the WCAG AA standard.
+{: .fs-2 .fw-800 .mb-6 }
 
 ---
 
