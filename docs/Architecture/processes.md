@@ -91,6 +91,12 @@ In this example the upload can be stopped at any time.
 
 ---
 
+## Give feedback
+TBD.
+See also chapter [Application feedback](/Accessibility-Designer-Guide/docs/design-rules/application-feedback) to get more detailed information about user feedback.
+
+---
+
 ##### Links
 {: .no_toc }
 

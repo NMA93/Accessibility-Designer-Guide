@@ -9,8 +9,11 @@ nav_order: 5
 {: .no_toc }
 {: .fs-9 }
 
-TBD.
+The target size of buttons, links and other clickable elements is an important factor when it comes to accessibility. But what needs to be considered?
 {: .fs-6 .fw-300 }
+
+Consistency and standards
+{: .label .label-black }
 
 ---
 
@@ -42,3 +45,9 @@ TBD.
 TBD.
 
 
+---
+
+##### Links
+{: .no_toc }
+
+[W3C – Target size](https://www.w3.org/WAI/WCAG21/Understanding/target-size "W3C – Target Size"){:target="_blank"} <br>
