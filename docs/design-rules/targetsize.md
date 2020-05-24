@@ -45,6 +45,7 @@ In order for systems to be able to operate with disabilities, it is important to
 
 ![](//placehold.it/800x200)
 
+For example an icon can be placed at 24px × 24px, with the space around the icon we still get a target size of at least 48px
 
 ---
 

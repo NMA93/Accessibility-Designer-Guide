@@ -2,7 +2,7 @@
 layout: default
 title: Nested content
 parent: Architecture
-nav_order: 7
+nav_order: 8
 ---
 
 # Nested content

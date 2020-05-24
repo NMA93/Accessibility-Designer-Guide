@@ -2,7 +2,7 @@
 layout: default
 title: 10 Heuristics of Jakob Nielsen
 parent: Accessibility in general
-nav_order: 3
+nav_order: 4
 ---
 
 # 10 Heuristics of Jakob Nielsen
@@ -31,6 +31,10 @@ Nothing is more annoying than a process that the user cannot understand. The sys
 <img src="{{ '/assets/images/heuristics/visibility.png' | prepend: site.baseurl }}" alt="Picture of a sending process on a mobile phone, which shows the progress in the ui" title="Picture of a sending process on a mobile phone, which shows the progress in the ui"/>
 
 In this example the user is immediately shown that the sending is in progress. Also the progress of the process is shown to the user. Through this feedback the user knows that everything works.
+
+<video width="100%" height="auto" controls>
+    <source src="{{ '/assets/videos/video_test.mp4' | prepend: site.baseurl }}">
+</video>
 
 ---
 

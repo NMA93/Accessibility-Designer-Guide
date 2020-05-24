@@ -2,7 +2,7 @@
 layout: default
 title: Support through the system
 parent: Architecture
-nav_order: 9
+nav_order: 10
 ---
 
 # Support through the system
