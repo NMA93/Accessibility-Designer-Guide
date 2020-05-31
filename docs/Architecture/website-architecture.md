@@ -58,14 +58,14 @@ A content-relevant page should be accessible via several ways within a page arch
 In this example we can reach the target page (1.A) either via the navigation or the content hub/parent site (1).
 {: .fs-3 .mb-6 }
 
-### Good to know
+#### Good to know
 {: .no_toc }
 Pages that only serve to redirect the user to other pages should not contain relevant content. Since they do not have to be visited to navigate the site. Additionally, link-heavy sections in a content-relevant page disturb the user experience with screen readers.
 {: .code-example }
 
----
 
-## Footer Navigation
+### Footer navigation
+Footer navigation is suitable for making pages accessible in several ways. The footer navigation should give the user an overview of the most important menu items. Useful links such as "Contact" and "Language selection" are quickly accessible.
 
 ---
 
