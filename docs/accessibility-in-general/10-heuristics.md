@@ -32,10 +32,6 @@ Nothing is more annoying than a process that the user cannot understand. The sys
 
 In this example the user is immediately shown that the sending is in progress. Also the progress of the process is shown to the user. Through this feedback the user knows that everything works.
 
-<video width="100%" height="auto" controls>
-    <source src="{{ '/assets/videos/video_test.mp4' | prepend: site.baseurl }}">
-</video>
-
 ---
 
 ## 2. Match between system and the real world

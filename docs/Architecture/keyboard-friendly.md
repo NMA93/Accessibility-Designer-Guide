@@ -78,6 +78,18 @@ A very important feature when operating websites through the keyboard are hidden
 
 ---
 
+## Do not use too many link sections
+
+People with visual or physical disabilities navigate through a website using a screen reader or keyboard, and if teasers and links are repeatedly inserted into relevant content, the user experience can be severely impaired. This is because users with screenreaders or keyboard navigation can later ignore irrelevant content as users can without impairment. It is better to insert such sections at the bottom of a page so that users with screen readers can also ignore them.
+
+Translated with www.DeepL.com/Translator (free version)
+
+<img src="{{ '/assets/images/architecture/medium_architecture.png' | prepend: site.baseurl }}" alt="In this picture we see a  page on which articles are read. As a user of a screen reader, I do not want to be taken out of context by the article because related articles are suggested to me. Therefore, it makes sense for all users to place them at the end of the article, like in this picture."/>
+A good example of this are pages on which articles are read. As a user of a screen reader, I do not want to be taken out of context by the article because related articles are suggested to me. Therefore, it makes sense for all users to place them at the end of the article. [medium](https://medium.com/ "medium"){:target="_blank"}
+{: .fs-3 .mb-6 }
+
+---
+
 ##### Links
 {: .no_toc }
 

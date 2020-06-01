@@ -25,6 +25,7 @@ Consistency and standards
 {:toc}
 
 ---
+
 ## What problems can be caused by the website architecture?
 Digital systems should guide the user to his destination as quickly and easily as possible. This requires a well thought-out and consistent website architecture. People with disabilities must be able to rely on the sites meeting certain standards.
 {: .mb-6 }
@@ -40,22 +41,28 @@ In order to make it as easy as possible for these user groups to navigate within
 
 ---
 
-## Do not use too many link sections
+## Hierarchy
+The hierarchy of a website determines how we consume the content of a page. For people who rely on screen readers or use the keyboard to navigate through a website, it is important that the hierarchy follows a logical sequence.
 
-People with visual impairments navigate through a website with a screen reader, and if teasers and links are repeatedly inserted into relevant content, the user experience can be severely impaired. This is because users with screen readers cannot simply ignore or later disregard irrelevant content. It is better to insert such sections at the bottom of a page so that users with screen readers can ignore them as well.
-
-<img src="{{ '/assets/images/architecture/medium_architecture.png' | prepend: site.baseurl }}" alt="In this picture we see a  page on which articles are read. As a user of a screen reader, I do not want to be taken out of context by the article because related articles are suggested to me. Therefore, it makes sense for all users to place them at the end of the article, like in this picture."/>
-A good example of this are pages on which articles are read. As a user of a screen reader, I do not want to be taken out of context by the article because related articles are suggested to me. Therefore, it makes sense for all users to place them at the end of the article. [medium](https://medium.com/ "medium"){:target="_blank"}
+<img src="{{ '/assets/images/architecture/flow.png' | prepend: site.baseurl }}" alt="In this example we see a clear hierarchical structure of the pages which is divided by 4 category landing pages."/>
+In this example we see a clear hierarchical structure of the pages which is also structured by 4 category landing pages (on level 2).
 {: .fs-3 .mb-6 }
 
+A common mistake that is made is the inconsistent use of categories defined in a site architecture. In our example we see 4 main categories on level 2, each new content must be under one of these categories. Standalone pages make the site confusing for all users.
+
+<img src="{{ '/assets/images/architecture/categories.png' | prepend: site.baseurl }}" alt="In this example we see a clear hierarchical structure of the pages which is divided by 4 category landing pages."/>
+If main categories have been defined, it is required to comply with them.
+{: .fs-3 .mb-6 }
+
+
 ---
+ 
+## Category landing pages - multiple ways
 
-## Multiple ways
+A content-relevant page should be accessible via several ways within a page architecture. For example, in addition to navigation, a page can also be accessible via a teaser. Ideally, there should be several content hubs or category landing pages within a page architecture, which only serve to guide the user to his or her destination. These content hubs or category landing pages can be seen as an extension of the navigation and therefore do not disturb users of screen readers. This can help people with cognitive and visual impairments to find content faster.
 
-A content-relevant page should be accessible via several ways within a page architecture. For example, in addition to navigation, a page can also be accessible via a teaser. Ideally, there should be several content hubs within a page architecture, which only serve to guide the user to his or her destination. These content hubs can be seen as an extension of the navigation and therefore do not disturb users of screen readers. This can help people with cognitive and visual impairments to find content faster.
-
-<img src="{{ '/assets/images/architecture/multiple_ways.png' | prepend: site.baseurl }}" alt="In this picture we see an example of a page which can be reached via multiple ways (navigation) or (contenthub/parentsite)."/>
-In this example we can reach the target page (1.A) either via the navigation or the content hub/parent site (1).
+<img src="{{ '/assets/images/architecture/multiple_ways.png' | prepend: site.baseurl }}" alt="In this picture we see an example of a page which can be reached via multiple ways (navigation) or (content hub/category landing pages)."/>
+In this example we can reach the target page (on level 3) either via the navigation (on any level 1, 2 or 3) or the content hub/category landing pages (on level 2).
 {: .fs-3 .mb-6 }
 
 #### Good to know
@@ -63,23 +70,11 @@ In this example we can reach the target page (1.A) either via the navigation or 
 Pages that only serve to redirect the user to other pages should not contain relevant content. Since they do not have to be visited to navigate the site. Additionally, link-heavy sections in a content-relevant page disturb the user experience with screen readers.
 {: .code-example }
 
-
-### Footer navigation
-Footer navigation is suitable for making pages accessible in several ways. The footer navigation should give the user an overview of the most important menu items. Useful links such as "Contact" and "Language selection" are quickly accessible.
-
----
-
-## Linear flow
-
-### Site architecture
-
-### Within the page
-
-
 ---
 
 ##### Links
 {: .no_toc }
 
 [W3C - Multiple Ways](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#multiple-ways "W3C - Multiple ways"){:target="_blank"} <br>
+[Nielsen Norman Group – Top 10 Information Architecture (IA) Mistakes](https://www.nngroup.com/articles/top-10-ia-mistakes/ "Nielsen Norman Group – Top 10 Information Architecture (IA) Mistakes"){:target="_blank"} <br>
 
