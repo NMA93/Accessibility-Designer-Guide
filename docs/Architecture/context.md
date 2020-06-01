@@ -33,19 +33,27 @@ Aesthetic and minimalist design
 ---
 
 ## Why the context on a website is important
-Page titles are essential to enable all users to quickly identify the content of a website. On the one hand, pages must be marked with the `<title>` element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing `<h1>` title (main title), so that people with visual impairments or with memory weaknesses can put the pages into context faster.
-{: .mb-8 }
+Page titles are essential to enable all users to quickly identify the content of a website. On the one hand, pages must be marked with the `<title>` element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing `<h1>` title (main title), so that people with visual impairments or withlimited short-term memory can put the pages into context faster.
+{: .mb-6 }
 
-#### The following examples illustrate the importance of context:
+#### A website without title and context can be problematic for subsequent persons:
 {: .no_toc .mb-5 }
 
-![](//placehold.it/800x400)
-TBD.
-{: .fs-2 .fw-800 .mb-6 }
+- People who are blind and navigate with a screen reader
+- User with impaired vision
+- People with limited short-term memory
+{: .mb-6 }
 
-![](//placehold.it/800x400)
-TBD.
-{: .fs-2 .fw-800 .mb-6 }
+<div id="container1">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/context/no_context.png' | prepend: site.baseurl }}" alt="In this picture you can see a shop without any title and context."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/context/context_yes.png' | prepend: site.baseurl }}" alt="In this picture you can see a shop which is correctly titled and the products are accordingly in context."/>
+</div>
+{: .mb-3 }
+
+This simple example shows the meaning of titles and context. Without context, the user does not know what product it is and what the slider is for.
+{: .fs-3 .mb-6 }
 
 ---
 
@@ -55,10 +63,6 @@ That means for us as designers, titles are essential to improve the usability of
 - Blind users notice the change to a new section within a page and can associate the content.
 - Users who navigate using the keyboard can easily skip from one section to another.
 - The risk of creating misunderstandings on the site through unclear sections is minimized.
-
-![](//placehold.it/800x400)
-TBD.
-{: .fs-2 .fw-800 .mb-6 }
 
 ---
 
@@ -86,20 +90,34 @@ For the user such labels are meaningless, even in the context of the content it 
 [Learn more about accessibility](http://example.com/){: .btn } <br>
 [start your project now](http://example.com/ "start your project now"){:target="_blank"}
 
-With a content describing label it is now clear what kind of action is behind the button or link. The user can even see what is triggered by the elements without reading the content. **This is useful for people who navigate through a page with a screen reader**.
+With a content describing label it is now clear what kind of action is behind the button or link. The user can even see what is triggered by the elements without reading the content. This is useful for people who navigate through a page with a screen reader.
 </div>
+
+In addition to meaningful labels, it is also important to adapt the labels to the contents. This means that the labels should have the same wording as in the previous dialog. 
+
+<div id="container2">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/context/no_context_discard.png' | prepend: site.baseurl }}" alt="In this picture we see labels marked with no and yes in a delete dialog, which is confusing for the user."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/context/context_discard.png' | prepend: site.baseurl }}" alt="In this picture we see labels that are labeled according to the dialog and therefore understandable for the user."/>
+</div>
+{: .mb-3 }
+
+This example clearly shows why labels should be put into context and labelled according to their effect. The usability improves for all users.
+{: .fs-3 .mb-6 }
+
+
 
 ---
 
 ## Active and inactive status
 It is also a matter of context if we only show certain contents of a page by interaction. The user must be able to determine the connection between trigger and appearing content at any time. Active elements should therefore always be highlighted. See also chapter [Nested content](/Accessibility-Designer-Guide/docs/Architecture/nested-content/) to get more detailed information on this topic. 
-{: .mb-8 }
+{: .mb-6 }
  
 
-![](//placehold.it/800x400)
-TBD.
-{: .fs-2 .fw-800 .mb-6 }
-
+<img src="{{ '/assets/images/context/tab.png' | prepend: site.baseurl }}" alt="In this picture we see a tab with an active state."/>
+With tabs it is very important to create the context visually so that the user knows which tab is currently active.
+{: .fs-3 .mb-6 }
 
 ---
 

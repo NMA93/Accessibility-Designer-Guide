@@ -8,6 +8,10 @@ window.addEventListener("load",function(){
     $("#container1").twentytwenty(); 
   });
 
+window.addEventListener("load",function(){ 
+    $("#container2").twentytwenty(); 
+  });
+
 
 
 // $(function(){
