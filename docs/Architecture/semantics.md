@@ -28,25 +28,33 @@ Aesthetic and minimalist design
 
 ## What is meant by semantics?
 
-Semantics is called the theory of the meaning of signs. As designers, we can give **meaning to text and other elements through their appearance or positioning**. In general, the appearance should support the content and not force a meaning. The following examples illustrate this.
+Semantics is called the theory of the meaning of signs. As designers, we can give meaning to text and other elements through their appearance or positioning. In general, the appearance should support the content and not force a meaning. The following examples illustrate this.
 
 ### Semantic in text
 
-Everyone of us comes into contact with semantics in text. In typography, text has always been structured by semantic design and optimized for the reader.  As an example we can look at a text without any markup. We see in this case a simple block, without any differentiation in itself. 
+Everyone of us comes into contact with semantics in text. In typography, text has always been structured by semantic design and optimized for the reader. As an example we can look at a text without any markup. We see in this case a simple block, without any differentiation in itself. 
+{: .mb-6 }
 
-![](//placehold.it/800x400)
+Quis eleifend quam adipiscing vitae. Cras sed felis eget velit. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Montes nascetur ridiculus mus mauris vitae ultricies. Ac turpis egestas sed tempus urna et. Pellentesque sit amet porttitor eget dolor morbi non. Ipsum faucibus vitae aliquet nec. 
+{: .code-example .mb-6  }
 
-Just by adding spaces and breaks we can give meaning to the content. Now we see the title and basic font within the text block. 
+Just by adding spaces and breaks we can give meaning to the content. Now we see the title and basic font within the text block.
+{: .mb-6 }
 
-![](//placehold.it/800x400)
+Quis eleifend quam adipiscing vitae.<br>
+Cras sed felis eget velit. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Montes nascetur ridiculus mus mauris vitae ultricies. Ac turpis egestas sed tempus urna et. Pellentesque sit amet porttitor eget dolor morbi non. Ipsum faucibus vitae aliquet nec. 
+{: .code-example .mb-6  }
 
 By adding different sizes and markings in the weight of the font, we can enhance this effect. Now the text is semantically structured. The appearance of the title also gives it the meaning of a title. The same applies to the basic text, which is recognized as basic text by its appearance.
+{: .mb-6 }
 
-![](//placehold.it/800x400)
+**Quis eleifend quam adipiscing vitae.**<br>
+Cras sed felis eget velit. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Montes nascetur ridiculus mus mauris vitae ultricies. Ac turpis egestas sed tempus urna et. Pellentesque sit amet porttitor eget dolor morbi non. Ipsum faucibus vitae aliquet nec. 
+{: .code-example .mb-6  }
 
 ### Semantic in Code
 
-In the code, the semantics are not as clearly visible to the user as we know it from print and typography. Although text on the web is also semantically prepared, **there are many more elements that need to be marked up**, text alone is not enough. **In code, semantics includes all elements on a website**. It is important to correctly label the elements. This has the following reasons:
+In the code, the semantics are not as clearly visible to the user as we know it from print and typography. In code, semantics includes all elements on a website. Although text on the web is also semantically prepared, there are many more elements that need to be marked up, text alone is not enough. It is important to correctly label the elements. This has the following reasons:
 
 - Semantic code can be better read by programs.
 - Loading times are shortened.
@@ -54,7 +62,7 @@ In the code, the semantics are not as clearly visible to the user as we know it 
 - The keyboard operation is easier. See <a href="/Accessibility-Designer-Guide/02-Architecture/04-keyboard%20friendly/"> Keyboard friendly.</a>
 - Accessibility is made possible because screen readers can read the content.
 
-Basically, each element on the page **is given a meaning in the code that corresponds to the content or function of the element**. This has several advantages, especially in terms of accessibility. The semantics in the code allows screen readers to read the meaning of individual elements, allowing people with impaired vision to navigate the page.
+Basically, each element on the page is given a meaning in the code that corresponds to the content or function of the element. This has several advantages, especially in terms of accessibility. The semantics in the code allows screen readers to read the meaning of individual elements, allowing people with impaired vision to navigate the page.
 
 ---
 
@@ -84,7 +92,9 @@ If you are a designer without any code knowledge and now think that this is the 
 ### Structure of the page
 Make sure that your design can be categorized into the common areas. Clear areas on your site simplify the structure for developers.
 
-![](//placehold.it/800x400)
+<img src="{{ '/assets/images/semantics/semantic_structure.png' | prepend: site.baseurl }}" alt="In this picture you can see a page that has been broken down into its semantic structure."/>
+In this example clear structures can be seen on the page. If modules are designed within this structure, implementation in the code is easier later.
+{: .fs-3 .mb-6 }
 
 ### Correct use of the elements
 Use elements correctly and do not complicate your design unnecessarily. An example is overloaded overlays or multi-level nesting in dropdowns. 
