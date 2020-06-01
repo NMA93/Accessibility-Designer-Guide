@@ -38,7 +38,7 @@ Everyone of us comes into contact with semantics in text. In typography, text ha
 Quis eleifend quam adipiscing vitae. Cras sed felis eget velit. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Montes nascetur ridiculus mus mauris vitae ultricies. Ac turpis egestas sed tempus urna et. Pellentesque sit amet porttitor eget dolor morbi non. Ipsum faucibus vitae aliquet nec. 
 {: .code-example .mb-6  }
 
-Just by adding spaces and breaks we can give meaning to the content. Now we see the title and basic font within the text block.
+Just by adding a break we can give meaning to the content. Now we see the title and basic font within the text block.
 {: .mb-6 }
 
 Quis eleifend quam adipiscing vitae.<br>

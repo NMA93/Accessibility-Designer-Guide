@@ -29,7 +29,7 @@ Aesthetic and minimalist design
 
 ---
 
-## What problems can be caused by the navigation?
+## Why it is important
 If certain rules in a navigation are not followed, users can lose their orientation within the page. Content may be overlooked or not found, and there may also be a feeling that your target group is not being addressed. 
 {: .mb-6 }
 

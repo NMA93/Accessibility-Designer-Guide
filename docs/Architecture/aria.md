@@ -27,7 +27,7 @@ Accessible Rich Internet Applications (ARIA) allow web developers to make web co
 
 ## What is ARIA
 
-Even though this topic is more on the technical side, I would still like to discuss it in this chapter. By using ARIA, the accessibility of a website is noticeably improved. For example, **the content of a website can be extended by ARIA to include form descriptions or displays of the current value in progress indicators**. This is extremely helpful for users who want to use a screen reader to navigate a website. But how does it work exactly?
+Even this subject is rather technical, I will discuss it at this chapter. By using ARIA, the accessibility of a website is noticeably improved. For example, ARIA can be used to add form descriptions to the content of a website or to display indicators of current value in progress. This is extremely useful for users who want to use a screen reader to navigate a website. But how does it work exactly?
 
 TBD.
 
