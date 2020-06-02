@@ -103,7 +103,7 @@ In addition to meaningful labels, it is also important to adapt the labels to th
 </div>
 {: .mb-3 }
 
-This example clearly shows why labels should be put into context and labelled according to their effect. The usability improves for all users.
+This example clearly shows why labels should be put into context and labelled according to their actions. The usability improves for all users.
 {: .fs-3 .mb-6 }
 
 
@@ -116,7 +116,7 @@ It is also a matter of context if we only show certain contents of a page by int
  
 
 <img src="{{ '/assets/images/context/tab.png' | prepend: site.baseurl }}" alt="In this picture we see a tab with an active state."/>
-With tabs it is very important to create the context visually so that the user knows which tab is currently active.
+For tabs it is very important to create the context visually so that the user knows which tab is currently active.
 {: .fs-3 .mb-6 }
 
 ---

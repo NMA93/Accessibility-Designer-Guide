@@ -76,7 +76,7 @@ Default focus indicator in Chrome.
 
 
 <img src="{{ '/assets/images/keyboard/focus_my_switzerland.png' | prepend: site.baseurl }}" alt="In this picture we see a focus indicator, wich is elegantly integrated into the design. An outline and a drop shadow serve as indicators here. This creates the impression that the focus surrounds an invisible button."/>
-On the [myswitzerland](https://www.myswitzerland.com/ "Website: myswitzerland.com") website, the focus is elegantly integrated into the design. An outline and a drop shadow serve as indicators here. This creates the impression that the focus surrounds an invisible button.
+On the [myswitzerland](https://www.myswitzerland.com/ "Website: myswitzerland.com"){:target="_blank"} website, the focus is elegantly integrated into the design. An outline and a drop shadow serve as indicators here. This creates the impression that the focus surrounds an invisible button.
 {: .fs-3 .mb-6 }
 
 ---
