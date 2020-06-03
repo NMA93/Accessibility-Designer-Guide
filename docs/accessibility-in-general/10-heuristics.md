@@ -46,7 +46,7 @@ In this example we see a boarding pass, it makes sense that we do not change its
 
 ## 3. User control and freedom
 
-Incorrect functions of a system are quickly selected, we should always and at any time **give the user the opportunity to abort a process** as easy as possible. This can especially help people with disabilities if they accidentally activate a wrong function in the system.
+Incorrect functions of a system are quickly selected, we should always and at any time give the user the opportunity to abort a process as easy as possible. This can especially help people with disabilities if they accidentally activate a wrong function in the system.
 
 <img src="{{ '/assets/images/heuristics/control.png' | prepend: site.baseurl }}" alt="The image shows the deleting process of a file. The system asks the user if they really want to delete the file." title="The image shows the deleting process of a file. The system asks the user if they really want to delete the file."/>
 
@@ -65,7 +65,7 @@ To ensure consistency across the entire project, you should always create a desi
 
 ## 5. Error prevention
 
-Through the **appearance of the elements and their positioning, errors can be avoided** right from the start. This can reduce the error rate when using the system and at the same time increase accessibility.
+Through the appearance of the elements and their positioning, errors can be avoided right from the start. This can reduce the error rate when using the system and at the same time increase accessibility.
 
 <img src="{{ '/assets/images/heuristics/error-prevention.png' | prepend: site.baseurl }}" alt="In this example, the user is shown suggestions while typing, even though he has misspelled the term. This avoids an unnecessary search without result." title="In this example, the user is shown suggestions while typing, even though he has misspelled the term. This avoids an unnecessary search without result."/>
 
