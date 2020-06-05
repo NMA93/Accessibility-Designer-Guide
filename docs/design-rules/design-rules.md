@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Design rules
 nav_order: 4
 has_children: true

@@ -93,7 +93,9 @@ Along with the error messages, success messages are just as important to give a 
 {: .no_toc }
 Input fields are very well suited to confirm successful input. By confirming the e-mail format or the successful password retype, many errors in their creation can be avoided. 
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/validation.png' | prepend: site.baseurl }}" alt="The input fields are immediately checked for the correct format.In this picture this can be seen on a field with a checkmark."/>
+On [github](https://www.github.com "github.com"){:target="_blank"} the input fields are immediately checked for the correct format.
+{: .fs-3 .mb-6 }
 
 
 #### Processes

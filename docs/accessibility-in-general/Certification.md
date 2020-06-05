@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POUR
+title: Certification
 parent: Accessibility in general
 nav_order: 3
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Accessibility in general
 nav_order: 2
 has_children: true
