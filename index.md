@@ -1,6 +1,7 @@
 ---
 layout: index
 permalink: /
+nav_exclude: true
 ---
 
 # 👋 Welcome to the Accessibility Designer Guide! v1.0

@@ -1,5 +1,6 @@
 ---
 layout: documentation
+nav_exclude: true
 ---
 
 # Documentation
