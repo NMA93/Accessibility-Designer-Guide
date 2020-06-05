@@ -9,7 +9,7 @@ nav_order: 11
 {: .no_toc }
 {: .fs-9 }
 
-An action in the analog world, often has a reaction as a result. This gives us a very fast feedback if our action was correct or incorrect. This behaviour should be transferred to the digital world if possible.
+Through feedback we receive confirmation of our actions within a very short time. Digital systems have to communicate with their users in order to confirm their actions.
 {: .fs-6 .fw-300 }
 
 Visibility of system status
@@ -33,18 +33,16 @@ Help and documentation
 
 ---
 
-## The lack of response is no answer
+## What is the problem if the feedback is missing?
 For all users it is confusing when the system completes an interaction or process without feedback. On the one hand you get the feeling that something has not worked. On the other hand, the user is not sure if the process took place at all. For users with disabilities who quickly make mistakes when using websites this is a accessibility problem.
 {: .mb-5 }
 
-#### We take a closer look at the following immediate feedback options:
+#### This can be a problem for the following users:
 {: .no_toc }
 
-- Error message
-- Success message
-- Confirmation message
-- In progress message
-- Status messages
+- Users who depend on screen readers and therefore need feedback from the system
+- Inexperienced or older users feel insecure
+- People with physical impairments feel insecure if they accidentally click something wrong
 
 ---
 
@@ -58,26 +56,33 @@ In order to make error messages barrier-free, technical terms should be avoided.
 So that users can recover quickly from an error, not only an error message should appear. In addition, solutions should also be shown and, if necessary, quick-links and FAQs should be listed which could solve the problem. This shortens the search for a solution and people with disabilities have to search less on the site for solutions.
 
 ### Immediate error feedback
-another way to communicate with the user is through direct and immediate feedback.Errors can be avoided already during the input of information. See also chapter [Support trough the system](/Accessibility-Designer-Guide/docs/Architecture/support-through-the-system) to get more detailed information about error prevention. 
+another way to communicate with the user is through direct and immediate feedback. Errors can be avoided already during the input of information. See also chapter [Support trough the system](/Accessibility-Designer-Guide/docs/Architecture/support-through-the-system) to get more detailed information about error prevention. 
 
 #### Input
 {: .no_toc }
 Input fields are well suited for direct feedback. Through the immediate feedback and a correspondingly descriptive error message, the user immediately knows what was done wrong. This avoids mistakes during data entry and gives people with disabilities more confidence when using the system.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/feedback_password.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
+Through the direct feedback and the highlighting of the error, the user knows where the mistake has been made.
+{: .fs-3 .mb-6 }
 
 #### Processes
 {: .no_toc }
 If processes fail, they must also generate an immediate feedback. It should be noted that these are linked with suggested solutions or links to the FAQs.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/feedback_process.png' | prepend: site.baseurl }}" alt="In this picture the allowed amount of data during upload was exceeded. The user is informed of this and a solution is suggested."/>
+On [wetransfer](https://www.wetransfer.com "dwetransfer.com"){:target="_blank"} the user is informed that he has exceeded the allowed amount of data. At the same time he will be shown how he could still send such a large amount of data.
+{: .fs-3 .mb-6 }
+
 
 ---
 
 ## General error messages (404)
 General error messages such as a "404 message" should not contain technical terms and should also contain further links. Useful for disabled users is a "back to home" button. This gives them an easy way back to the original page.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/feedback_404.png' | prepend: site.baseurl }}" alt="On digitec.ch the error message is supplemented with a back to last page and back to home link. This is very useful for users with keyboard navigation or a screen reader. The customer service is linked directly to provide direct support for users."/>
+On [digitec](https://www.digitec.ch "digitec.ch"){:target="_blank"} the error message is supplemented with a "back to last page" and "back to home" link. This is very useful for users with keyboard navigation or a screen reader. The customer service is linked directly to provide direct support for users.
+{: .fs-3 .mb-6 }
 
 ---
 

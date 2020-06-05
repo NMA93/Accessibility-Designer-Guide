@@ -9,7 +9,7 @@ nav_order: 10
 {: .no_toc }
 {: .fs-9 }
 
-People with disabilities tend to trigger wrong actions more often than users without disabilities. Therefore it is helpful to plan the system in such a way that mistakes can be avoided already in their beginning.
+People with disabilities tend to trigger false actions more often than users without disabilities. It is therefore helpful to plan the system in such a way that mistakes can be avoided in the initial phase.
 {: .fs-6 .fw-300 }
 
 Error prevention
@@ -28,39 +28,59 @@ Help users recognize, diagnose, and recover from errors
 
 ---
 
+## What is the problem if the system does not provide support?
+When users are disabled, they can often inadvertently trigger wrong actions. If this is the case, this should not be a problem for the user. The system should support the user and prevent errors from the beginning.
+
+#### A system without support can be a problem for the following users:
+{: .no_toc .mb-5 }
+
+- Inexperienced or older users feel insecure
+- People with physical impairments feel insecure if they accidentally click something wrong
+
+
+---
+
 ## Error avoidance through restrictions
 One possible way to avoid errors is to limit the user's options. By limiting the input possibilities, the error rate of a system is reduced. For users with limitations, it is more clear what is required of them.
 
-![](//placehold.it/800x400)
-In this example with a date, the format of the input is already predefined, plus only the input of numbers is allowed.
-{: .fs-2 .fw-800 .mb-6 }
+<img src="{{ '/assets/images/support/support_restrictions.png' | prepend: site.baseurl }}" alt="In this example, the format of the input is already predefined and only the input of numbers is allowed."/>
+In this example [ottonova](https://www.ottonova.de/expats "ottonova"){:target="_blank"} with a date, the format of the input is already predefined and only the input of numbers is allowed.
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Error avoidance through support
-Not only when users are disabled, it can happen that errors are created while information is being entered. This should not be a problem for the user, as a good example of this, searches should be considered. Often suggestions are made while typing. These suggestions also correct typing errors. This avoids empty search results.
+It is not only when users are disabled that errors may be generated when entering information. This should not be a problem for the user. As a good example, the live search should be considered. Suggestions are often made during the input. These suggestions also correct input errors. This avoids empty search results.
 
-![](//placehold.it/800x400)
-The automatic search completion reduces the chance of errors during input.
-{: .fs-2 .fw-800 .mb-6 }
+<img src="{{ '/assets/images/support/support_auto.png' | prepend: site.baseurl }}" alt="In this example, the format of the input is already predefined and only the input of numbers is allowed."/>
+The automatic live search completion reduces the chance of errors during input. [google](https://www.google.com "google"){:target="_blank"}
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Error avoidance through repetition
-By repeatedly requesting information, the user is forced to verify the information entered. In addition, the system can detect errors by comparing the information and alert the user.
+Repeated requests for information force the user to check the information entered. In addition, by comparing the information, the system can detect errors and warn the user. A good example of this is setting a password. The user is forced to repeat this in order to avoid making errors. For actions with consequences, such as deleting a file, the system should always ask the user first whether this action is actually desired.
 
-![](//placehold.it/800x400)
-A good example of this is repeating e-mail and password. This helps to avoid errors when creating accounts.
-{: .fs-2 .fw-800 .mb-6 }
+<img src="{{ '/assets/images/heuristics/control.png' | prepend: site.baseurl }}" alt="The image shows the deleting process of a file. The system asks the user if they really want to delete the file." title="The image shows the deleting process of a file. The system asks the user if they really want to delete the file."/>
+The system asks the user if they really want to delete the file.
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Not all options are always available
-Certain actions are dependent on other factors. For example, as a private user I need other input fields like an organization. Therefore it makes sense not to display them for both users. It is better to separate both input variants. For example with a radio button. This way the user is not overwhelmed with too much information.
+Certain actions are dependent on other factors. For example, as a private user I need different input fields like an organization. Therefore, it makes sense not to display them for both users. It is better to separate both input variants. For example, with a radio button. This way, the user is not overwhelmed with too much information. Another example are inactive elements that only become active once everything has been entered. In this way, the user knows that he or she can now proceed to the next step. See <a href="/Accessibility-Designer-Guide/docs/Architecture/processes/">processes</a> for more information on processes and user guidance.
 
-![](//placehold.it/800x400)
-Another example are inactive elements that only become active once everything has been recorded. This way the user knows that he can now proceed to the next step.
-{: .fs-2 .fw-800 .mb-6 }
+<div id="container1">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/support/support_step1.png' | prepend: site.baseurl }}" alt="In this picture we see empty input fields, so the login button is still inactive.
+"/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/support/support_step2.png' | prepend: site.baseurl }}" alt="In this picture we see filled in input fields, so the login button is active.
+"/>
+</div>
+{: .mb-3 }
+The system determines when it is possible to switch to the next step.
+{: .fs-3 .mb-6 }
 
 ---
 
