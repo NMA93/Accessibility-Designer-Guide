@@ -1,3 +1,9 @@
 //
 // Custom overrides from a user.
 //
+
+a:focus {
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(orange, 0.85);
+  }

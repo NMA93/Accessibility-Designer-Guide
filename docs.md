@@ -2,7 +2,7 @@
 layout: home
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "If you are interested in barrier-free design and you need design guidelines to support you during the process, then you have come to the right place."
 permalink: /docs
 ---
 
@@ -13,5 +13,4 @@ In this guide I try to answer as many questions as possible about Accessibility 
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/NMA93/Accessibility-Designer-Guide).
+You can work on this guide, it is not finished yet. Please send me an issue or a pull request, you can also mail me if you have added a new article or want to suggest changes. Read more about becoming a contributor in [my GitHub repo](https://github.com/NMA93/Accessibility-Designer-Guide).

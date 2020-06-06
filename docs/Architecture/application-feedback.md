@@ -102,14 +102,18 @@ On [github](https://www.github.com "github.com"){:target="_blank"} the input fie
 {: .no_toc }
 Processes can give successful immediate feedback. For example, sending a message can be indicated as successful, or transferring money can generate successful feedback. This gives inexperienced users or users with disabilities confidence in using the system.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/message.png' | prepend: site.baseurl }}" alt="In this picture we see the 3 states a message can have in whatsapp. Successfully sent with a grey check mark, sent and received with 2 grey check marks and sent and read with two blue check marks. This way the user knows that the transmission of the message has worked."/>
+On [whatsapp](https://https://faq.whatsapp.com/android/security-and-privacy/how-to-check-read-receipts "whatsapp faq's"){:target="_blank"} the sending of a message is immediately provided with a feedback. Successfully sent, sent and received and sent and read. This way the user knows that the message has been successfully sent.
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Confirmation message
 In order to give users even more confidence in using the system, the system should ask the user before important actions if the action is really wanted. This is important for users with disabilities, as they can quickly trigger a wrong action.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/heuristics/control.png' | prepend: site.baseurl }}" alt="The image shows the deleting process of a file. The system asks the user if they really want to delete the file." title="The image shows the deleting process of a file. The system asks the user if they really want to delete the file."/>
+The system asks the user if they really want to delete the file.
+{: .fs-3 .mb-6 }
 
 ---
 
@@ -129,12 +133,16 @@ We can separate longer lasting processes into 2 categories.
 ### In progress
 The process takes longer, but will be completed in the near future. As an example, this can be the upload of a large file. Here it is important to show the user the remaining duration and the current status. If such a process is executed in the background, the user is confused. It is also important to give the user the possibility to cancel such a process at any time. This helps users with disabilities, if they have triggered a wrong action.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/heuristics/visibility.png' | prepend: site.baseurl }}" alt="Picture of a sending process on a mobile phone, which shows the progress in the ui" title="Picture of a sending process on a mobile phone, which shows the progress in the ui"/>
+In this example the user is immediately shown that the sending is in progress. Also the progress of the process is shown to the user. Through this feedback the user knows that everything works.
+{: .fs-3 .mb-6 }
 
 ### Pending
 The process takes several days or weeks. For example, the processing of a document submitted online to the insurance company. Here it is important to display the current status in detail, so that the user can be sure that his or her request is being processed. Frequent updates ensure that inexperienced users or users with disabilities can handle the system with confidence.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/feedback/pending.png' | prepend: site.baseurl }}" alt="In this picture we see a tracking for a package. The process is divided into several steps, which change depending on the status of the shipment until the shipment reaches the recipient."/>
+[Feedex](https://www.fedex.com/en-us/home.html "feedex"){:target="_blank"} and many other delivery services allow the user to track the status of his delivery over a longer period of time.
+{: .fs-3 .mb-6 }
 
 ---
 
@@ -151,7 +159,11 @@ System messages are an important feature for users with a screen reader to see w
 
 It is important that such system messages are displayed long enough to be read by a screen reader or a person with impaired vision. You should also not disturb or interrupt the current session.
 
-![](//placehold.it/800x200)
+<video width="100%" height="auto" controls>
+    <source src="{{ '/assets/videos/snackbar.mp4' | prepend: site.baseurl }}">
+</video>
+[20min](https://www.20min.ch "20min"){:target="_blank"} communicates with the user via a snackbar and gives direct feedback to the user.
+{: .fs-3 .mb-6 }
 
 ---
 
