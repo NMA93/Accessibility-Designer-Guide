@@ -66,9 +66,26 @@ On the left side, the User Interface (UI) does not conform to any Web Content Ac
 ---
 
 ## Do not make information dependent on their colour
-To ensure that visually impaired users can see all information on a page, it is important not to make the information dependent on a colour.s
+To ensure that visually impaired users can see all information on a page, it is important not to make the information dependent on a colour.
 
-![](//placehold.it/800x200)
+<div id="container2">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/color/colour_depend.png' | prepend: site.baseurl }}" alt="In this image we see an input error message based on red color only."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/color/colour_depend_monochromacy.png' | prepend: site.baseurl }}" alt="In this picture we see how a person suffering from total color blindness perceives this error message. For this person the screen appears completely grey."/>
+</div>
+{: .mb-3 }
+
+In this example we see that users suffering from total color blindness cannot see the input error.
+{: .fs-3 .mb-6 }
+
+To make the error message accessible to all people, we have to add icons and explanatory text.
+
+<img src="{{ '/assets/images/color/colour_no_depend.png' | prepend: site.baseurl }}" alt="In this picture the error message is completed with icon and text, now even a person with total color blindness can distinguish them."/>
+Now even a person who suffers from total color blindness can see the error message.
+{: .fs-3 .mb-6 }
+
+
 
 ---
 
@@ -95,7 +112,7 @@ Once the font color is selected, we define the brightest possible tone for the g
 
 #### Find the middle
 {: .no_toc .mb-3 }
-Now we look for the middle, with a contrast ratio of 4.5:1.
+After the darkest and lightest color value for text, we look for an average value with a contrast ratio of 4.5:1.
 
 <img src="{{ '/assets/images/color/colour_step_3.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
 
@@ -103,18 +120,31 @@ Now we have defined 3 colors in our color system which are accessible for the te
 {: .mb-6 }
 
 ### Define a background
-Now we need a background, we have white, because we know that this color works for all 3 colors. But we need a grey background in the design to distinguish certain sections.
+Now we need a background, we have white, because we know that this color works for all 3 colors. But we need a grey background in the colour scheme. For example to separate certain sections.
 
 <img src="{{ '/assets/images/color/colour_step_4.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
 
 We only use tertiary text on a white background, which means we have to make sure that we get enough contrast to our background for the primary and secondary text. The contrast value of 4.5:1 is the minimum contrast.
 
-#### Define the colors
-With colours, the whole thing becomes a bit more complex, we can't just change the opacity, we have to find and match certain colour values. That's a process that can take some time, but it's worth it.
+### Define the colors
+With colours, the whole thing becomes a bit more complex, we can't just change the opacity, we have to find and match certain colour values. That's a process that can take some time, but it's worth it. First we define the main color and make sure that there is enough contrast. It is useful to define an additional background, making sure that it has enough contrast to the black primary text and our defined color.
 
 <img src="{{ '/assets/images/color/colour_step_5.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
 
-First we define the main color and make sure that there is enough contrast. It is useful to define an additional background, making sure that it has enough contrast to the black primary text and our defined color.
+Once we have defined a color, an accent color and a background, we can repeat this process for each additional color.
 
+
+----
 
 ## But what if the customer specifies the colours?
+Make it clear to your customer that in this case his specified colours cannot be transferred 1:1 to the web. Not enough contrast on the website has a negative effect on all users.
+
+----
+
+##### Links
+{: .no_toc }
+
+[W3C – Contrast minimum](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum "W3C – Contrast minimum"){:target="_blank"} <br>
+[W3C – Contrast enhanced](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced "W3C – Contrast enhanced"){:target="_blank"} <br>
+[W3C – Non text contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast "W3C – Non text contrast"){:target="_blank"} <br>
+[W3C – Use of color](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color "W3C – Use of color"){:target="_blank"} <br>
