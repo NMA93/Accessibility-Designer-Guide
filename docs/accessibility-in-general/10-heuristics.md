@@ -9,7 +9,7 @@ nav_order: 4
 {: .fs-9 }
 {: .no_toc }
 
-If there is such a thing as a generally accepted guide to good usability, then these are the 10 interaction design principles of Jakob Nielsen. If the heuristics are **followed from the beginning, many accessibility problems can be avoided**.
+If there is such a thing as a generally accepted guide to good usability, then these are the 10 interaction design principles of Jakob Nielsen. If the heuristics are followed from the beginning, many accessibility problems can be avoided.
 {: .fs-6 .fw-300 }
 
 <img src="{{ '/assets/images/heuristics.png' | prepend: site.baseurl }}" alt="Title Picture Heuristics" title="Title Picture Heuristics"/>
@@ -26,7 +26,7 @@ If there is such a thing as a generally accepted guide to good usability, then t
 
 ## 1. Visibility of system status
 
-Nothing is more annoying than a process that the user cannot understand. The system should always give the user **feedback in a reasonable amount of time** and inform him about what is happening. By providing clear feedback on the status of the system, people with disabilities will feel more secure while using the system.
+Nothing is more annoying than a process that the user cannot understand. The system should always give the user feedback in a reasonable amount of time and inform him about what is happening. By providing clear feedback on the status of the system, people with disabilities will feel more secure while using the system.
 
 <img src="{{ '/assets/images/heuristics/visibility.png' | prepend: site.baseurl }}" alt="Picture of a sending process on a mobile phone, which shows the progress in the ui" title="Picture of a sending process on a mobile phone, which shows the progress in the ui"/>
 
@@ -36,7 +36,7 @@ In this example the user is immediately shown that the sending is in progress. A
 
 ## 2. Match between system and the real world
 
-In order for the interface to speak the language of the user, it is important to use familiar patterns. **Shapes from the real world which can be transferred into the digital interface** can increase the usability significantly. 
+In order for the interface to speak the language of the user, it is important to use familiar patterns. Shapes from the real world which can be transferred into the digital interface can increase the usability significantly. 
 
 <img src="{{ '/assets/images/heuristics/real-world.png' | prepend: site.baseurl }}" alt="Picture of a boarding pass which was taken over in its appearance from the real world into the interface." title="Picture of a boarding pass which was taken over in its appearance from the real world into the interface."/>
 
@@ -54,7 +54,7 @@ Incorrect functions of a system are quickly selected, we should always and at an
 
 ## 4. Consistency and standards
 
-A very important point to improve the accessibility of a site. **Same appearance and same wording should always mean the same function**.  
+A very important point to improve the accessibility of a site. Same appearance and same wording should always mean the same function.  
 
 <img src="{{ '/assets/images/heuristics/consistency.png' | prepend: site.baseurl }}" alt="The picture shows a design system." title="The picture shows a design system."/>
 
@@ -75,7 +75,7 @@ In this example, the user is shown suggestions while typing, even though he has 
 
 ## 6. Recognition rather than recall
 
-The user should **never have to remember relevant information across multiple interactions**. The design should always demand as little background knowledge from the user as possible. Options and actions should always be visible. The system should support the user in this, so the accessibility of a page can be increased.
+The user should never have to remember relevant information across multiple interactions. The design should always demand as little background knowledge from the user as possible. Options and actions should always be visible. The system should support the user in this, so the accessibility of a page can be increased.
 
 <img src="{{ '/assets/images/heuristics/recognition.png' | prepend: site.baseurl }}" alt="The picture shows a font selection menu, which shows the visuality of the fonts already in the preview." title="The picture shows a font selection menu, which shows the visuality of the fonts already in the preview."/>
 
@@ -85,7 +85,7 @@ A good example is a font selection menu. No one can ask the user to know the vis
 
 ## 7. Flexibility and efficiency of use
 
-The system should be customizable for experienced users. So they can use tools and shortcuts to work with the system faster and easier. For inexperienced users or people with disabilities, **the lack of use of such tools should not affect the process**.
+The system should be customizable for experienced users. So they can use tools and shortcuts to work with the system faster and easier. For inexperienced users or people with disabilities, the lack of use of such tools should not affect the process.
 
 <img src="{{ '/assets/images/heuristics/flexibility.png' | prepend: site.baseurl }}" alt="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation." title="In this example the common shortcuts of programs are shown, these can be used via the keyboard or via the navigation."/>
 
@@ -94,7 +94,7 @@ In this example the common shortcuts of programs are shown, these can be used vi
 ---
 
 ## 8. Aesthetic and minimalist design
-Dialogues should be reduced to the essential. **The usershould only be shown what is relevant for him**. This increases the usability of a page by a screen reader significantly.
+Dialogues should be reduced to the essential. The usershould only be shown what is relevant for him. This increases the usability of a page by a screen reader significantly.
 
 <img src="{{ '/assets/images/heuristics/minimalism.png' | prepend: site.baseurl }}" alt="In this picture you can see a login screen reduced to the minimum of ui-elements." title="In this picture you can see a login screen reduced to the minimum of ui-elements."/>
 
@@ -103,7 +103,7 @@ As a good example of this, login screens can be considered. Optimally, there is 
 ---
 
 ## 9. Help users recognize, diagnose, and recover from errors
-Error messages should be described as **simply as possible** and should not contain any code. Suggested solutions help the users to solve the problem.
+Error messages should be described as simply as possible and should not contain any code. Suggested solutions help the users to solve the problem.
 
 <img src="{{ '/assets/images/heuristics/recover.png' | prepend: site.baseurl }}" alt="In this picture you can see an incorrect password field. With a mark and an error description the user knows where the error is." title="In this picture you can see an incorrect password field. With a mark and an error description the user knows where the error is."/>
 
@@ -112,7 +112,7 @@ By marking the incorrect input field and the clear message that describes the er
 ---
 
 ## 10. Help and documentation
-Even if a system should be self-explanatory, it is helpful to have a **simple and quick guide**.
+Even if a system should be self-explanatory, it is helpful to have a simple and quick guide.
 
 <img src="{{ '/assets/images/heuristics/documentation.png' | prepend: site.baseurl }}" alt="In this picture you can see an incorrect password field. With a mark and an error description the user knows where the error is." title="In this picture you can see an incorrect password field. With a mark and an error description the user knows where the error is."/>
 

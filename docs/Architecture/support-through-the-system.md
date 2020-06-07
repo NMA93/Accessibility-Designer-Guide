@@ -50,7 +50,7 @@ In this example [ottonova](https://www.ottonova.de/expats "ottonova"){:target="_
 ---
 
 ## Error avoidance through support
-It is not only when users are disabled that errors may be generated when entering information. This should not be a problem for the user. As a good example, the live search should be considered. Suggestions are often made during the input. These suggestions also correct input errors. This avoids empty search results.
+Errors can occur when entering information, not only for disabled users. This should not be a problem for the user. As a good example the live search should be considered. Suggestions are often made during the input. These suggestions also correct input errors. This avoids empty search results.
 
 <img src="{{ '/assets/images/support/support_auto.png' | prepend: site.baseurl }}" alt="In this example, the format of the input is already predefined and only the input of numbers is allowed."/>
 The automatic live search completion reduces the chance of errors during input. [google](https://www.google.com "google"){:target="_blank"}

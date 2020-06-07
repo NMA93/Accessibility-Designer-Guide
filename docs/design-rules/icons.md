@@ -115,11 +115,11 @@ Icons are well suited to make the interface more understandable. One challenge i
  <!-- The before image is first -->
  <img src="{{ '/assets/images/icons/search_x.png' | prepend: site.baseurl }}" alt="In this picture we see a detailed icon of a magnifier with outline."/>
  <!-- The after image is last -->
- <img src="{{ '/assets/images/icons/search.png' | prepend: site.baseurl }}" alt="In diesem Bild sehen wir ein solid icon einer lupe ohne outline."/>
+ <img src="{{ '/assets/images/icons/search.png' | prepend: site.baseurl }}" alt="In this picture we see a solid icon of a magnifier without outline."/>
 </div>
 {: .mb-3 }
 
-In the left example we see a search icon that works well for 16px or more. Once the icon needs to be resized, it is too delicate. A solid icon like the one on the right makes more sense.
+In the left example we see a search icon that works well for 16px or more. Once the icon needs to be resized, it is too detailed. A solid icon like the one on the right makes more sense.
 {: .fs-3 }
 
 ---
