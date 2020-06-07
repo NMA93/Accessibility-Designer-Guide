@@ -29,13 +29,12 @@ Consistency and standards
 Anyone who has ever pulled a door that actually needs to be pulled knows what it feels like when something behaves differently than expected. This feeling comes up again and again with users who use screen readers or people with disabilities on websites whenever a known pattern behaves differently than the norm requires.
 {: .mb-5 }
 
-#### The following examples illustrate the problem of wrong expectations:
+#### A wrong expectation of a pattern is a problem for the following users
 {: .no_toc }
 
-![](//placehold.it/800x200)
-
-![](//placehold.it/800x200)
-
+- People who are blind and navigate with a screen reader
+- User with impaired vision
+- Inexperienced or older users
 
 ---
 

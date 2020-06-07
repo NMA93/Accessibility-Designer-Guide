@@ -85,7 +85,27 @@ To make the error message accessible to all people, we have to add icons and exp
 Now even a person who suffers from total color blindness can see the error message.
 {: .fs-3 .mb-6 }
 
+---
 
+## Determine the primary and secondary colours
+Colours are an important design tool when it comes to the usability of a page. We can use colours to highlight interactive elements, brand the website or highlight information. It makes sense to use a strict colour system. Generally we can separate the page into 2 colour systems.
+
+### Primary colours
+Primary colours are essential colours in our design system. This includes colours like: Text colour, interaction colour, white and branding colour. These colours are exclusive and are only used for the intended purpose. They allow users with impaired vision to better navigate.
+
+### Secondary colours
+Secondary colours are used to design the page, for example within illustrations or graphics. But backgrounds can also be defined in this colour category. In general, it should be noted that these differ enough from the primary colours. And that they have enough contrast.
+
+<div id="container3">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/color/action_x.png' | prepend: site.baseurl }}" alt="In this picture the interaction colour is used for typography and decorative elements, therefore the call to action is overlooked."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/color/action.png' | prepend: site.baseurl }}" alt="In this picture the call to action stands out clearly, because it has the interaction color as the only element."/>
+</div>
+{: .mb-3 }
+
+This example shows why it makes sense to define a  interaction color for clickable elements. The actual main interaction is lost if the interaction color is used too often.
+{: .fs-3 .mb-6 }
 
 ---
 
@@ -107,14 +127,14 @@ The font colour is usually the darkest shade of grey that we use. It must have a
 {: .no_toc .mb-3 }
 Once the font color is selected, we define the brightest possible tone for the gray we want to use as the font. This color must not be less than the contrast value of 3:1.
 
-<img src="{{ '/assets/images/color/colour_step_2.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
+<img src="{{ '/assets/images/color/colour_step_2.png' | prepend: site.baseurl }}" alt=""/>
 {: .mb-6 }
 
 #### Find the middle
 {: .no_toc .mb-3 }
 After the darkest and lightest color value for text, we look for an average value with a contrast ratio of 4.5:1.
 
-<img src="{{ '/assets/images/color/colour_step_3.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
+<img src="{{ '/assets/images/color/colour_step_3.png' | prepend: site.baseurl }}" alt=""/>
 
 Now we have defined 3 colors in our color system which are accessible for the text. This gives us the possibility to mark a primary, secondary and tertiary text.
 {: .mb-6 }
@@ -122,14 +142,14 @@ Now we have defined 3 colors in our color system which are accessible for the te
 ### Define a background
 Now we need a background, we have white, because we know that this color works for all 3 colors. But we need a grey background in the colour scheme. For example to separate certain sections.
 
-<img src="{{ '/assets/images/color/colour_step_4.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
+<img src="{{ '/assets/images/color/colour_step_4.png' | prepend: site.baseurl }}" alt=""/>
 
 We only use tertiary text on a white background, which means we have to make sure that we get enough contrast to our background for the primary and secondary text. The contrast value of 4.5:1 is the minimum contrast.
 
 ### Define the colors
 With colours, the whole thing becomes a bit more complex, we can't just change the opacity, we have to find and match certain colour values. That's a process that can take some time, but it's worth it. First we define the main color and make sure that there is enough contrast. It is useful to define an additional background, making sure that it has enough contrast to the black primary text and our defined color.
 
-<img src="{{ '/assets/images/color/colour_step_5.png' | prepend: site.baseurl }}" alt="In this picture the password was entered incorrectly. The password field is marked red and a label indicates that the password is wrong."/>
+<img src="{{ '/assets/images/color/colour_step_5.png' | prepend: site.baseurl }}" alt=""/>
 
 Once we have defined a color, an accent color and a background, we can repeat this process for each additional color.
 

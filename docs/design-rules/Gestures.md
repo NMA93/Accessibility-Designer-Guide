@@ -39,8 +39,6 @@ The following gesture controls can occur on the desktop:
 - scroll to interact
 - hold to interact
 
-![](//placehold.it/800x200)
-
 ### Mobile
 The following gestures have become established on Mobile:
 
@@ -53,14 +51,15 @@ The following gestures have become established on Mobile:
 - rotate
 - double tap
 
-![](//placehold.it/800x200)
-
 ---
 
 ## Making alternatives visible
 Gestures are basically no problem, they help power users to find their way around the system more quickly. However, a click variant should always be offered. This also helps people with disabilities to use the system.
 
-![](//placehold.it/800x200)
+<img src="{{ '/assets/images/gestures/back.png' | prepend: site.baseurl }}" alt="In this example you can use swipe back in the app to switch to the last screen. Additionally a back button is placed on the screen to show a visual alternative."/>
+In this example you can use swipe back in the app to switch to the last screen. Additionally a back button is placed on the screen to show a visual alternative.
+{: .fs-3 .mb-6 }
+
 
 
 ##### Links

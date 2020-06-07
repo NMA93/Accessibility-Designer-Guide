@@ -71,7 +71,7 @@ Through the direct feedback and the highlighting of the error, the user knows wh
 If processes fail, they must also generate an immediate feedback. It should be noted that these are linked with suggested solutions or links to the FAQs.
 
 <img src="{{ '/assets/images/feedback/feedback_process.png' | prepend: site.baseurl }}" alt="In this picture the allowed amount of data during upload was exceeded. The user is informed of this and a solution is suggested."/>
-On [wetransfer](https://www.wetransfer.com "dwetransfer.com"){:target="_blank"} the user is informed that he has exceeded the allowed amount of data. At the same time he will be shown how he could still send such a large amount of data.
+On [wetransfer](https://www.wetransfer.com "wetransfer.com"){:target="_blank"} the user is informed that he has exceeded the allowed amount of data. At the same time he will be shown how he could still send such a large amount of data.
 {: .fs-3 .mb-6 }
 
 

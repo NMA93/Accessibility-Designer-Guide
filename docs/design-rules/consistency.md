@@ -29,48 +29,60 @@ Aesthetic and minimalist design
 
 ---
 
-## Same appearance same function
+## The problem with inconsistent use of elements
 Elements with the same appearance should always have the same function. This is important for users who are not familiar with the system or for people with disabilities. 
 {: .mb-5 }
 
-#### The following examples illustrate the problem of inconsistent use of elements:
+#### An inconsistent system can be a problem for the following users
 {: .no_toc }
 
-![](//placehold.it/800x200)
+- People who are blind and navigate with a screen reader
+- User with impaired vision
+- Inexperienced or older users
 
-![](//placehold.it/800x200)
+---
+
+## Same appearance same function
+If 2 elements look the same, but trigger a different action, this leads to confusion for the user. The site may become unusable for people with disabilities.
+{: .mb-5 }
+
+<img src="{{ '/assets/images/consistency/same.png' | prepend: site.baseurl }}" alt="In this example titles are underlined, this can lead to confusion, because links in the copy text are also underlined. This can lead to problems despite colour differentiation."/>
+In this example titles are underlined, this can lead to confusion, because links in the copy text are also underlined. This can lead to problems despite colour differentiation.
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Colours
-Colours are an important design tool when it comes to the usability of a page. We can use colours to highlight interactive elements, brand the website or highlight information. It makes sense to use a strict colour system. Generally we can separate the page into 2 colour systems.  See also chapter [Colours](/Accessibility-Designer-Guide/docs/design-rules/colours/) to get more detailed informations about colours. 
+Colours are an important design tool when it comes to the usability of a page. We can use colours to highlight interactive elements, brand the website or highlight information. It makes sense to use a strict colour system. Generally we can separate the page into 2 colour systems.  See also chapter [Colours](/Accessibility-Designer-Guide/docs/design-rules/colours/) to get more detailed informations about colours.
 
 ### Primary colours
 Primary colours are essential colours in our design system. This includes colours like: Text colour, interaction colour, white and branding colour. These colours are exclusive and are only used for the intended purpose. They allow users with impaired vision to better navigate.
 
-
 ### Secondary colours
 Secondary colours are used to design the page, for example within illustrations or graphics. But backgrounds can also be defined in this colour category. In general, it should be noted that these differ enough from the primary colours. And that they have enough contrast.
 
-#### The following examples illustrate the problem of inconsistent use of colors:
-{: .no_toc }
+<div id="container3">
+ <!-- The before image is first -->
+ <img src="{{ '/assets/images/color/action_x.png' | prepend: site.baseurl }}" alt="In this picture the interaction colour is used for typography and decorative elements, therefore the call to action is overlooked."/>
+ <!-- The after image is last -->
+ <img src="{{ '/assets/images/color/action.png' | prepend: site.baseurl }}" alt="In this picture the call to action stands out clearly, because it has the interaction color as the only element."/>
+</div>
+{: .mb-3 }
 
-![](//placehold.it/800x200)
+This example shows why it makes sense to define a color for clickable elements. The actual main interaction is lost if the interaction color is used too often.
+{: .fs-3 .mb-6 }
 
 ---
 
 ## Positionings
 Certain elements have established their position on a website and should be retained. These include navigation and footer. As a general rule, it should be ensured that elements once placed are consistently placed in the same position on all other pages. This allows users with screen readers or users with disabilities to use familiar patterns.
 
-![](//placehold.it/800x200)
-
 ---
 
 ## How can I achieve a consistent design?
-A consistent design across all breakpoints and screens can only be achieved with a detailed design system. Even if I as ux-designer do not work with other designers, it makes sense to create one. I can work on a solid basis during the whole design process.
+A consistent design across all breakpoints and screens can only be achieved with a detailed design system. Even if You as ux-designer not work with other designers, it makes sense to create one. You can work on a solid basis during the whole design process.
 
-![](//placehold.it/800x200)
-
+<img src="{{ '/assets/images/heuristics/consistency.png' | prepend: site.baseurl }}" alt="The picture shows a design system." title="The picture shows a design system."/>
 
 ---
 

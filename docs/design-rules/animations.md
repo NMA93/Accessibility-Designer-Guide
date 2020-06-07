@@ -40,7 +40,7 @@ Moving or blinking elements can attract the attention of users, but they can als
 ---
 
 ## Blinking and hectic animations
-In principle, animations on a website should not be hectic or blinking fast. The [W3C – Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold "W3C – Three Flashes"){:target="_blank"} guidelines prescribe the following rule. Content should not blink more than 3 times per second. This prevents the animation from triggering a seizure or physical reaction.
+Animations on a website should not be hectic or blinking fast. The [W3C – Three Flashes](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold "W3C – Three Flashes"){:target="_blank"} guidelines prescribe the following rule. Content should not blink more than 3 times per second. This prevents the animation from triggering a seizure or physical reaction.
 
 ---
 
@@ -74,13 +74,14 @@ An app or website should always be operable without animations.
 
 
 ## Animations do not have to be bad
-Supporting animations can help users to find their way around a system easily. A good example is the Apple toolbar in MacOS. By gently enlarging the tools, attention is drawn to the active tool. 
+Supporting animations can help users to find their way around a system easily. A good example is the Apple toolbar in MacOS. By gently enlarging the tools, attention is drawn to the active tool. Another good example are "tutorial" animations that help users.
 
-![](//placehold.it/800x200)
+<video width="100%" height="auto" controls>
+    <source src="{{ '/assets/videos/sbb.mp4' | prepend: site.baseurl }}">
+</video>
 
-Another good example are "back" animations that smoothly move the content along the x-axis.
-
-![](//placehold.it/800x200)
+In this example of the [SBB](https://sbb.ch/ "SBB"){:target="_blank"} app, a useful animation explains the app to the user.
+{: .fs-3 .mb-6 }
 
 
 

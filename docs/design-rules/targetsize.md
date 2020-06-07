@@ -43,9 +43,9 @@ Some people find it difficult to activate small buttons because of their age or 
 ## Give clickable elements enough space
 In order for systems to be able to operate with disabilities, it is important to create enough space for clickable elements. This means that, in addition to a comfortable target size, the corresponding margin, i.e. the space around it, must also be included.
 
-![](//placehold.it/800x200)
-
-For example an icon can be placed at 24px × 24px, with the space around the icon we still get a target size of at least 48px
+<img src="{{ '/assets/images/targetsize/target.png' | prepend: site.baseurl }}" alt="For example an icon can be placed at 24px × 24px, with the space around the icon we still get a target size of at least 48px."/>
+For example an icon can be placed at 24px × 24px, with the space around the icon we still get a target size of at least 48px.
+{: .fs-3 .mb-6 }
 
 ---
 
@@ -64,9 +64,6 @@ Excepted from this rule are text links in the content, since these are part of t
 
 ## Mobile and Desktop
 The differences between desktop and mobile are minimal, the target size does not change. Only the margin can be a slightly tighter on the desktop, since Mobile, in difference to the desktop, is navigated by touch. However, the elements should be left enough room for interaction here as well.
-
-![](//placehold.it/800x200)
-
 
 ---
 
