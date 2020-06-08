@@ -73,6 +73,7 @@
 
   &.nav-open {
     display: block;
+    margin-bottom: $sp-6;
   }
   @include mq(md) {
     display: block;
