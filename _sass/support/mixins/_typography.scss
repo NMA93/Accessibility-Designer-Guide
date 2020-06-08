@@ -1,23 +1,23 @@
 // Font size
 
 @mixin fs-1 {
-  font-size: 9px !important;
+  font-size: 14px !important;
 
   @include mq(sm) {
-    font-size: 10px !important;
+    font-size: 14px !important;
   }
 }
 
 @mixin fs-2 {
-  font-size: 11px !important;
+  font-size: 14px !important;
 
   @include mq(sm) {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
 }
 
 @mixin fs-3 {
-  font-size: 12px !important;
+  font-size: 14px !important;
 
   @include mq(sm) {
     font-size: 14px !important;
