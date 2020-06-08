@@ -299,13 +299,13 @@ body { position: relative; padding-bottom: 4rem; }
 
 .navigation-list-child-list .navigation-list-item.active::before { color: #5c5962; }
 
-.navigation-list-item { font-size: 14px !important; margin: 0; }
+.navigation-list-item { font-size: 16px !important; margin-bottom: 0.25em; }
 
-@media (min-width: 31.25rem) { .navigation-list-item { font-size: 16px !important; } }
+@media (min-width: 31.25rem) { .navigation-list-item { font-size: 16px !important; margin: 0: } }
 
-@media (min-width: 43.75rem) { .navigation-list-item { font-size: 12px !important; } }
+@media (min-width: 43.75rem) { .navigation-list-item { font-size: 16px !important; margin-bottom: 0.25em; } }
 
-@media (min-width: 43.75rem) and (min-width: 31.25rem) { .navigation-list-item { font-size: 14px !important; } }
+@media (min-width: 43.75rem) and (min-width: 31.25rem) { .navigation-list-item { font-size: 14px !important; margin: 0: } }
 
 .navigation-list-item .navigation-list-child-list { display: none; }
 
