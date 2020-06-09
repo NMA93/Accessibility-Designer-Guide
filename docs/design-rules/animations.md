@@ -15,6 +15,9 @@ Animations and transitions are a popular way to give a page or app a special tou
 Consistency and standards
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/animation.png' | prepend: site.baseurl }}" alt="Title Picture Animations" title="Title Picture Animations"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

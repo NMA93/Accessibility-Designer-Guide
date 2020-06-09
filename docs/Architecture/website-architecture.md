@@ -16,6 +16,9 @@ Simple, short and logical paths within the website increase the usability not on
 Consistency and standards
 {: .label .label-black }
 
+<img src="{{ '/assets/images/architecture.png' | prepend: site.baseurl }}" alt="Title Picture architecture." title="Title Picture architecture."/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

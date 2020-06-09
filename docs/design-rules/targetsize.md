@@ -15,6 +15,9 @@ The target size of buttons, links and other clickable elements is an important f
 Consistency and standards
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/target.png' | prepend: site.baseurl }}" alt="Title Picture Targetsize" title="Title Picture Targetsize"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

@@ -12,6 +12,8 @@ nav_order: 3
 Accessibility is not just nice to have, it is often obligatory and is certified.
 {: .fs-6 .fw-300 }
 
+<img src="{{ '/assets/images/certification.png' | prepend: site.baseurl }}" alt="Title Picture certification" title="Title Picture certification"/>
+
 ---
 
 

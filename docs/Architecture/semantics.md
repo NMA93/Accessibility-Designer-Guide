@@ -16,6 +16,9 @@ Match between system and the real world
 Aesthetic and minimalist design
 {: .label .label-black }
 
+<img src="{{ '/assets/images/ARIA.png' | prepend: site.baseurl }}" alt="Title Picture ARIA" title="Title Picture ARIA"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

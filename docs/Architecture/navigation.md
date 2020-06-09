@@ -12,12 +12,16 @@ nav_order: 2
 The navigation is the heart of many websites and apps. If mistakes are made there, the user experience is significantly affected. But this does not have to be the case.
 {: .fs-6 .fw-300 }
 
+
 Consistency and standards
 {: .label .label-black }
 User control and freedom
 {: .label .label-black }
 Aesthetic and minimalist design
 {: .label .label-black }
+
+<img src="{{ '/assets/images/navigation.png' | prepend: site.baseurl }}" alt="Title Picture navigation." title="Title Picture navigation."/>
+{: .mt-6 }
 
 ---
 

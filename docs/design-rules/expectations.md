@@ -15,6 +15,9 @@ Depending on how an element is designed and implemented, it can raise expectatio
 Consistency and standards
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/expectations.png' | prepend: site.baseurl }}" alt="Title Picture Expectations" title="Title Picture Expectations"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

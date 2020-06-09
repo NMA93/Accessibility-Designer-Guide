@@ -12,6 +12,8 @@ nav_order: 2
 In recent years, barrier-free design has become more and more a topic when it comes to the conception, design and implementation of digital solutions. But what exactly is meant by this?
 {: .fs-6 .fw-300 }
 
+<img src="{{ '/assets/images/meaning.png' | prepend: site.baseurl }}" alt="Title Picture what does barrier-free design mean" title="Title Picture what does barrier-free design mean"/>
+
 ---
 
 

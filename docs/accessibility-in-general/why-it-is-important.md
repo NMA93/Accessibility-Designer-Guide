@@ -36,7 +36,7 @@ According to the [WHO](https://www.who.int/news-room/facts-in-pictures/detail/di
 
 <img src="{{ '/assets/images/important/all-user.png' | prepend: site.baseurl }}" alt="Illustration of 2 users" title="Illustration of 2 users"/>
 
-Often the question also arises, **do people with disabilities even belong to our target group?** This question can be answered with yes. People with disabilities make up a [large percentage](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"} of the population. Excluding these people from your services is questionable, not only from a business point of view. It is also a questionable decision from a human perspective and does not contribute to a good company image.
+The question often arises as to whether people with disabilities even belong to our target group. This question can be answered with yes. People with disabilities make up a [large percentage](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"} of the population. Excluding these people from your services is questionable, not only from a business point of view. It is also a questionable decision from a human perspective and does not contribute to a good company image.
 
 ---
 

@@ -17,6 +17,9 @@ Consistency and standards
 Flexibility and efficiency of use
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/keyboard.png' | prepend: site.baseurl }}" alt="Title Picture keyboard friendly" title="Title keyboard friendly"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

@@ -17,6 +17,9 @@ Consistency and standards
 Aesthetic and minimalist design
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/icon.png' | prepend: site.baseurl }}" alt="Title Picture Icons" title="Title Picture Icons"/>
+{: .mt-6 }
+
 
 ---
 

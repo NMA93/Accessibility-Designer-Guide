@@ -12,6 +12,10 @@ nav_order: 1
 When it comes to colors, many brands prescribe a color palette based on the existing ci. However, if the colours are not optimised for the web, there is a risk of accessibility problems.
 {: .fs-6 .fw-300 }
 
+<img src="{{ '/assets/images/hero/colours.png' | prepend: site.baseurl }}" alt="Title Picture colours" title="Title Picture colours"/>
+{: .mt-6 }
+
+
 ---
 
 ## Table of contents

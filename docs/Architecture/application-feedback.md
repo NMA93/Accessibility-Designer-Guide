@@ -23,6 +23,9 @@ Help users recognize, diagnose, and recover from errors
 Help and documentation
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/feedback.png' | prepend: site.baseurl }}" alt="Title Picture Application feedback" title="Title Picture Application feedback"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

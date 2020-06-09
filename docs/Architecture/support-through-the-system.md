@@ -17,6 +17,9 @@ Error prevention
 Help users recognize, diagnose, and recover from errors
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/support.png' | prepend: site.baseurl }}" alt="Title Picture support" title="Title Picture support"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

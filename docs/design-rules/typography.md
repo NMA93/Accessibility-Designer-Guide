@@ -12,6 +12,10 @@ nav_order: 2
 For centuries, typefaces have been refined by type designers, typographers, and designers. Many specifications that work for print can also be transferred to the web and can improve the usability and accessibility of a page.
 {: .fs-6 .fw-300 }
 
+<img src="{{ '/assets/images/hero/typo.png' | prepend: site.baseurl }}" alt="Title Picture Typography" title="Title Picture Typography"/>
+{: .mt-6 }
+
+
 ---
 
 ## Table of contents
@@ -171,7 +175,7 @@ Check [semantics](/Accessibility-Designer-Guide/docs/Architecture/semantics/ "Se
 ---
 
 ## Do not use text as image
-Everyone should be aware of it, and yet it keeps popping up. Text that was placed in a header image and is now available as an image (jpeg or png) on the website. A mortal sin in terms of accessibility. Screen readers have no chance of reading this text unless it is added with Alt text. However, I recommend not to do this.
+Text that contributes to the content on the page and must be read should not be placed in images. A mortal sin in terms of accessibility. Screen readers have no chance of reading this text unless it is added with Alt text. However, I recommend not to do this.
 
 ---
 

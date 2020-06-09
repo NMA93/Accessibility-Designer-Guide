@@ -15,6 +15,9 @@ Decorative elements without actual use are often used to give a website an indiv
 Aesthetic and minimalist design
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/decorative.png' | prepend: site.baseurl }}" alt="Title Picture Decorative elements" title="Title Picture Decorative elements"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents
@@ -34,7 +37,6 @@ Some people find it difficult to concentrate because decorative elements can int
 ## Decorative elements are not bad
 First of all, decorative elements are not generally bad. You can structure a website into sections or highlight and bundle certain information.
 
-![](//placehold.it/800x200)
 
 ---
 
@@ -46,7 +48,6 @@ If decorative elements are used, they must under no circumstances disturb the UI
 - Do not make information dependent on decorative elements.
 - Do not distract from the actual focus.
 
-![](//placehold.it/800x200)
 
 ---
 

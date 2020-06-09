@@ -17,6 +17,9 @@ Consistency and standards
 Aesthetic and minimalist design
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/nested.png' | prepend: site.baseurl }}" alt="Title Picture nested content" title="Title Picture nested content"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

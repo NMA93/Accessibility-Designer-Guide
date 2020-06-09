@@ -17,6 +17,9 @@ Flexibility and efficiency of use
 Consistency and standards
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/gesture.png' | prepend: site.baseurl }}" alt="Title Picture Gestures" title="Title Picture Gestures"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents

@@ -21,6 +21,9 @@ Aesthetic and minimalist design
 Help users recognize, diagnose, and recover from errors
 {: .label .label-black }
 
+<img src="{{ '/assets/images/hero/processes.png' | prepend: site.baseurl }}" alt="Title Picture processes" title="Title Picture processes"/>
+{: .mt-6 }
+
 ---
 
 ## Table of contents
