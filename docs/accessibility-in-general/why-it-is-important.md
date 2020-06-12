@@ -26,9 +26,9 @@ Accessibility has become increasingly important in recent years. Due to the incr
 
 ## It affects us all
 
-For me as a UX designer, accessibility is an extremely important issue. On the one hand, the developers and the code can greatly improve a product in terms of accessibility. On the other hand, there is the design part, which also has a huge impact on accessibility. **As designers we have the power to make the Internet accessible to everyone**.  
+For me as a UX designer, accessibility is an extremely important issue. On the one hand, the developers and the code can greatly improve a product in terms of accessibility. On the other hand, there is the design part, which also has a huge impact on accessibility. As designers we have the power to make the Internet accessible to everyone.  
 
-According to the [WHO](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"}, **over 1 billion people worldwide suffer from some form of disability**. Not all of them can use digital solutions, but for those who can, we should make it as easy as it is for us. 
+According to the [WHO](https://www.who.int/news-room/facts-in-pictures/detail/disabilities "WHO – 10 Facts on disability"){:target="_blank"}, over 1 billion people worldwide suffer from some form of disability. Not all of them can use digital solutions, but for those who can, we should make it as easy as it is for us. 
 
 ---
 
@@ -49,6 +49,6 @@ When a website or app is designed and developed with the "accessible for all" mi
 
 ## Accessible design does not have to be boring
 
-A prejudice that is heard again and again is that barrier-free design is boring and restricts creativity. I am always surprised by this attitude. Is UX design really just "fancy digital product design"? For me, it is more the recognition of problems and their solution. This does not mean that the solution cannot be aesthetically pleasing. But there is more to a well-balanced digital product than just making it beautiful. **Behind it there is a strategy for the architecture, for the content, for the code and for the design**. 
+A prejudice that is heard again and again is that barrier-free design is boring and restricts creativity. I am always surprised by this attitude. Is UX design really just "fancy digital product design"? For me, it is more the recognition of problems and their solution. This does not mean that the solution cannot be aesthetically pleasing. But there is more to a well-balanced digital product than just making it beautiful. Behind it there is a strategy for the architecture, for the content, for the code and for the design. 
 
 As a designer, if I know the rules of accessible design, I know how to push the limits. Within these rules, beautiful results can be achieved that improve usability for all user groups.
