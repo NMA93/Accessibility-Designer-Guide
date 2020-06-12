@@ -3,7 +3,7 @@ layout: home
 title: Home
 nav_order: 1
 description: "If you are interested in barrier-free design and you need design guidelines to support you during the process, then you have come to the right place."
-permalink: /docs
+permalink: docs
 ---
 
 # Accessibility Designer Guide
