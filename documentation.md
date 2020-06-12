@@ -9,7 +9,7 @@ nav_exclude: true
 This documentation serves as an additional text for the submission of the Accessibility Designer Guide as the final thesis of the course of studies HF IAD 2017.
 {: .fs-6 .fw-300 }
 
-[Back to the guide](/Accessibility-Designer-Guide/docs){: .btn .btn-purple }
+[Back to the guide](/docs){: .btn .btn-purple }
 
 ---
 
