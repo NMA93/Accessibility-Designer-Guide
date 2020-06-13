@@ -47,6 +47,10 @@ With Apple it is exactly the same, a permanent navigation with an indication of 
 ### Purple/Orange
 These colours were chosen because they represent a recommended colour combination for barrier-free design.
 
+<img src="{{ '/assets/images/documentation/colour_doc.png' | prepend: site.baseurl }}" alt="Both colours meet at least the AA standard"/>
+Both colours meet at least the AA standard.
+{: .fs-3 .mb-6 }
+
 ### Font
 The Inter as basis font is characterized by a very good readability. This font was especially designed for displays and works perfectly even in the smallest applications.
 
