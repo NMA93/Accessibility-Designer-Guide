@@ -37,11 +37,11 @@ If the font sizes are too small, the character spacing is too large and the sema
 
 ## Print also works digitally
 
-For centuries, typefaces have been refined by type designers, typographers and designers. Many specifications that work for **print can also be transferred to the web** and can increase the usability of a page.
+For centuries, typefaces have been refined by type designers, typographers and designers. Many specifications that work for print can also be transferred to the web and can increase the usability of a page.
 
 
 ## Fonts sizes
-From classical typography we know a clear classification of font sizes, **3 categories have been established**:
+From classical typography we know a clear classification of font sizes, 3 categories have been established:
 
 ### For print
 
@@ -121,7 +121,7 @@ According to the [W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-c
 There are countless tools for checking the contrast of elements and text, one of my favourite tools is the [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/ "Colour Contrast Analyser Tool") from the paciello group.
 
 
-Check [Colours](/Accessibility-Designer-Guide/docs/design-rules/colours/ "Colour chapter") to learn more about colours and contrast.
+Check [colours]({{ site.baseurl }}{% link docs/design-rules/colours.md %} "colours") to learn more about colours and contrast.
 
 ---
 
@@ -170,7 +170,7 @@ Apart from the visual distinction, there is also a technical distinction. It is 
 In this example we see how we label the main content with the h1 and then the usual gradations down to h6. While the other content starts with an h2-h6, since it is lower-level.
 {: .fs-3 .mb-6 }
 
-Check [semantics](/Accessibility-Designer-Guide/docs/Architecture/semantics/ "Semantics") and [context](/Accessibility-Designer-Guide/docs/Architecture/context/ "Context") to learn more about sematnics and how to structure a page.
+Check [semantics]({{ site.baseurl }}{% link docs/Architecture/semantics.md %} "semantics") and [context]({{ site.baseurl }}{% link docs/Architecture/context.md %} "context") to learn more about sematnics and how to structure a page.
 
 ---
 

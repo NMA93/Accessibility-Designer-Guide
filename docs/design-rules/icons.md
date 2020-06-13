@@ -94,11 +94,12 @@ If icons that are not self-explanatory are used as interaction elements, they sh
 </div>
 {: .mb-3 }
 
-We see here two times the same interface, once with labels and once without. It is immediately clear that the interface with label is more user-friendly. Not only for users with disabilities it's much easier to use the interface with labels, but for all users. See also chapter [Context](/Accessibility-Designer-Guide/docs/Architecture/context/) to get more detailed informationabout meaningful labels.
+We see here two times the same interface, once with labels and once without. It is immediately clear that the interface with label is more user-friendly. Not only for users with disabilities it's much easier to use the interface with labels, but for all users. See also chapter [context]({{ site.baseurl }}{% link docs/Architecture/context.md %} "context") to get more detailed informationabout meaningful labels.
 {: .fs-3 .mb-6 }
 
+
 ### Icons contrast
-For UI components and graphical objects, [WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html/ "W3C guidelines") requires a contrast ratio of at least 3:1. If icons are used as interaction elements, for example in navigation, a contrast of 4.5:1 is recommended. Since the icons in navigation must be aligned with the navigation labels. See also chapter [Colours](/Accessibility-Designer-Guide/docs/design-rules/colours) to get more detailed information about contrast. 
+For UI components and graphical objects, [WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html/ "W3C guidelines") requires a contrast ratio of at least 3:1. If icons are used as interaction elements, for example in navigation, a contrast of 4.5:1 is recommended. Since the icons in navigation must be aligned with the navigation labels. See also chapter [colours]({{ site.baseurl }}{% link docs/design-rules/colours.md %} "colours") to get more detailed information about contrast. 
 
 There are countless tools for checking the contrast of elements and text, one of my favourite tools is the [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/ "Colour Contrast Analyser Tool") from the paciello group.
 
