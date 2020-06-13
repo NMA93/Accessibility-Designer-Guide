@@ -53,13 +53,14 @@ For all users it is confusing when the system completes an interaction or proces
 Error messages are an important tool to give the user direct feedback on his action. But what do I have to consider so that error messages are useful and accessible for the user?
 
 ### Avoid technical terms
-In order to make error messages barrier-free, technical terms should be avoided. This makes it easier for people with impairments and reading difficulties to recover from errors. See also chapter [Content and language](/Accessibility-Designer-Guide/docs/Architecture/content-and-language) to get more detailed information about accessible language. 
+In order to make error messages barrier-free, technical terms should be avoided. This makes it easier for people with impairments and reading difficulties to recover from errors. See also chapter [content and language]({{ site.baseurl }}{% link docs/Architecture/content-and-language.md %} "content and language") to get more detailed information about accessible language. 
 
 ### Offer help
 So that users can recover quickly from an error, not only an error message should appear. In addition, solutions should also be shown and, if necessary, quick-links and FAQs should be listed which could solve the problem. This shortens the search for a solution and people with disabilities have to search less on the site for solutions.
 
 ### Immediate error feedback
-another way to communicate with the user is through direct and immediate feedback. Errors can be avoided already during the input of information. See also chapter [Support trough the system](/Accessibility-Designer-Guide/docs/Architecture/support-through-the-system) to get more detailed information about error prevention. 
+another way to communicate with the user is through direct and immediate feedback. Errors can be avoided already during the input of information. See also chapter [support trough the system]({{ site.baseurl }}{% link docs/Architecture/support-through-the-system.md %} "support through the system") to get more detailed information about error prevention. 
+
 
 #### Input
 {: .no_toc }

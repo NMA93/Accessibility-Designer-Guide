@@ -66,6 +66,7 @@ In the code, the semantics are not as clearly visible to the user as we know it 
 - Accessibility is made possible because screen readers can read the content.
 
 Basically, each element on the page is given a meaning in the code that corresponds to the content or function of the element. This has several advantages, especially in terms of accessibility. The semantics in the code allows screen readers to read the meaning of individual elements, allowing people with impaired vision to navigate the page.
+{: .mb-6 }
 
 <video width="100%" height="auto" controls>
     <source src="{{ '/assets/videos/screenreader.mp4' | prepend: site.baseurl }}">
