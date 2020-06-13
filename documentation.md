@@ -61,6 +61,14 @@ The Inter as basis font is characterized by a very good readability. This font w
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 ?!()[]{}&*^%$#@~ 
 {: .code-example .mb-6 .fs-10 .fw-900  }
 
+---
+
+## Structure
+The guide starts by explaining accessibility as the overall theme. To better place this topic in the context of the design, this overall topic also takes up the 10 heuristics. Thus it is shown that usability and accessibility go hand in hand. All the later chapters are labelled with heuristics, making accessibility through usability understandable for designers.
+
+<img src="{{ '/assets/images/documentation/labels.png' | prepend: site.baseurl }}" alt="Each theme is linked to the corresponding heuristics and thus displayed in a way that designers can understand."/>
+Each theme is linked to the corresponding heuristics and thus displayed in a way that designers can understand.
+{: .fs-3 .mb-6 }
 
 ---
 
