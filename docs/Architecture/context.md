@@ -33,7 +33,7 @@ Aesthetic and minimalist design
 ---
 
 ## Why the context on a website is important
-Page titles are essential to enable all users to quickly identify the content of a website. On the one hand, pages must be marked with the `<title>` element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing `<h1>` title (main title), so that people with visual impairments or withlimited short-term memory can put the pages into context faster.
+Page titles are essential to enable all users to identify the content of a website. On the one hand, pages must be marked with the `<title>` element, so that pages in browser tabs can be quickly identified. On the other hand it makes sense to give each page a content describing `<h1>` title (main title), so that people with visual impairments or withlimited short-term memory can put the pages into context.
 {: .mb-6 }
 
 #### A website without title and context can be problematic for subsequent persons:
