@@ -84,6 +84,7 @@ Just the docs met all the criteria I needed for this task [Just the docs – git
 
 - The code is semantically correct
 - The navigation shows the current location
+- Keyboard navigation
 - Breadcrumbs
 - Search
 - Simple creation of a menu structure
