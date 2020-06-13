@@ -31,6 +31,10 @@ A major problem is the current accessibility guides, they are not designed in an
 ## Benchmark analysis
 Current guides dealing with this topic are very detailed. However, they are quite complicated for designers to read and understand. Many of the guides are out of date. It is therefore understandable that blogs fill this gap and serve as a source for designers.
 
+<img src="{{ '/assets/images/documentation/w3c.png' | prepend: site.baseurl }}" alt="The WCAG guidelines are the bible of accessibility and cover all topics in detail. However, I have always felt overwhelmed because the site is not very well designed. Also, the topics for developers and designers are not always separated."/>
+The WCAG guidelines are the bible of accessibility and cover all topics in detail. However, I have always felt overwhelmed because the site is not very well designed. Also, the topics for developers and designers are not always separated. [WCAG – Guidelines](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&currentsidebar=%23col_overview#top"){:target="_blank"}
+{: .fs-3 .mb-6 }
+
 ---
 
 ## Design decision
