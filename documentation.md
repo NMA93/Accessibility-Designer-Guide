@@ -36,11 +36,23 @@ Current guides dealing with this topic are very detailed. However, they are quit
 ## Design decision
 The current design of the guide is based on a benchmark analysis for guides used for reference. Page navigation is essential, the user must know where he is and which chapters are available. Therefore only a page navigation that offers a permanent overview is suitable.
 
+<img src="{{ '/assets/images/documentation/material.png' | prepend: site.baseurl }}" alt="Material Design is similar in structure to this guide. The navigation is permanently visible and the user is supported by a table of contents."/>
+Material Design is similar in structure to this guide. The navigation is permanently visible and the user is supported by a table of contents. [Google – Material Designs](https://material.io/design/usability/accessibility.html#understanding-accessibility"){:target="_blank"}
+{: .fs-3 .mb-6 }
+
+<img src="{{ '/assets/images/documentation/apple_dev.png' | prepend: site.baseurl }}" alt="With Apple it is exactly the same, a permanent navigation with an indication of where the reader is located is necessary."/>
+With Apple it is exactly the same, a permanent navigation with an indication of where the reader is located is necessary. [Apple – Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/"){:target="_blank"}
+{: .fs-3 .mb-6 }
+
 ### Purple/Orange
 These colours were chosen because they represent a recommended colour combination for barrier-free design.
 
 ### Font
 The Inter as basis font is characterized by a very good readability. This font was especially designed for displays and works perfectly even in the smallest applications.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 ?!()[]{}&*^%$#@~ 
+{: .code-example .mb-6 .fs-10 .fw-900  }
+
 
 ---
 
