@@ -60,6 +60,7 @@ h6 {
   font-weight: 500;
   line-height: $body-heading-line-height;
   color: $body-heading-color;
+  overflow-wrap: break-word;
 }
 
 p {
@@ -69,6 +70,7 @@ p {
 a {
   color: $link-color;
   text-decoration: none;
+  overflow-wrap: break-word;
 }
 
 a:not([class]) {
