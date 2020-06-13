@@ -56,7 +56,8 @@ In this example titles are underlined, this can lead to confusion, because links
 ---
 
 ## Colours
-Colours are an important design tool when it comes to the usability of a page. We can use colours to highlight interactive elements, brand the website or highlight information. It makes sense to use a strict colour system. Generally we can separate the page into 2 colour systems.  See also chapter [Colours](/Accessibility-Designer-Guide/docs/design-rules/colours/) to get more detailed informations about colours.
+Colours are an important design tool when it comes to the usability of a page. We can use colours to highlight interactive elements, brand the website or highlight information. It makes sense to use a strict colour system. Generally we can separate the page into 2 colour systems.  See also chapter [colours]({{ site.baseurl }}{% link docs/design-rules/colours.md %} "colours") to get more detailed informations about colours.
+
 
 ### Primary colours
 Primary colours are essential colours in our design system. This includes colours like: Text colour, interaction colour, white and branding colour. These colours are exclusive and are only used for the intended purpose. They allow users with impaired vision to better navigate.

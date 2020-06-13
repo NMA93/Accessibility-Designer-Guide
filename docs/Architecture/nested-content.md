@@ -47,10 +47,11 @@ If content is nested by using tabs or accordions, the page appears more organize
 ---
 
 ## How to nest content correctly
-In general, nested information is not bad, correctly implemented it can improve the usability of a page. An important part is the implementation of the elements in the code. For example the semantically correct implication: see chapter [Semantics](/Accessibility-Designer-Guide/docs/Architecture/semantics/). But also in the design there are certain rules that have to be observed.
+In general, nested information is not bad, correctly implemented it can improve the usability of a page. An important part is the implementation of the elements in the code. For example the semantically correct implication: see chapter [semantics]({{ site.baseurl }}{% link docs/Architecture/semantics.md %} "semantics"). But also in the design there are certain rules that have to be observed.
 
 ### Announce the content to be expected
-If content is nested, it is important to provide it with a label that describes the content. This way the user knows exactly what to expect. See also chapter [Context](/Accessibility-Designer-Guide/docs/Architecture/context/) for more informations about meaningful labels.
+If content is nested, it is important to provide it with a label that describes the content. This way the user knows exactly what to expect. See also chapter [context]({{ site.baseurl }}{% link docs/Architecture/context.md %} "context") for more informations about meaningful labels.
+
 
 <img src="{{ '/assets/images/nested/tab_label.png' | prepend: site.baseurl }}" alt="In this screen you see tabs that are very clearly labeled and supported by an icon."/>
 On the page of [ebookers](https://www.ebookers.com/ "Website: ebookers.com"){:target="_blank"} the labels are very clearly described and are supported by an icon. For the user it is immediately clear what to expect behind this tab.
@@ -71,7 +72,7 @@ In this example the important buton within the tabs is overlooked. The interacti
 {: .fs-3 .mb-6 }
 
 ### Display what is active
-If information is nested, it is important to show the user which elements are currently active. Often a colourful highlighting is sufficient, optimnally this is supported by backgrounds. This allows the user to set the content in context more easily. See also chapter [Context](/Accessibility-Designer-Guide/docs/Architecture/context/). 
+If information is nested, it is important to show the user which elements are currently active. Often a colourful highlighting is sufficient, optimnally this is supported by backgrounds. This allows the user to set the content in context more easily. See also chapter [context]({{ site.baseurl }}{% link docs/Architecture/context.md %} "context"). 
 {: .mb-8 }
 
 #### the following example shows the problem
