@@ -67,6 +67,12 @@ In the code, the semantics are not as clearly visible to the user as we know it 
 
 Basically, each element on the page is given a meaning in the code that corresponds to the content or function of the element. This has several advantages, especially in terms of accessibility. The semantics in the code allows screen readers to read the meaning of individual elements, allowing people with impaired vision to navigate the page.
 
+<video width="100%" height="auto" controls>
+    <source src="{{ '/assets/videos/screenreader.mp4' | prepend: site.baseurl }}">
+</video>
+This page, for example, was built semantically correct, i.e. screenreaders recognize the elements and can describe them correctly.
+{: .fs-3 .mb-6 }
+
 ---
 
 ## Semantic in Code (HTML5)– Cheatsheet
