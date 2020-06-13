@@ -38,7 +38,7 @@ The WCAG guidelines are the bible of accessibility and cover all topics in detai
 ---
 
 ## Design decision
-The current design of the guide is based on a benchmark analysis for guides used for reference. Page navigation is essential, the user must know where he is and which chapters are available. Therefore only a page navigation that offers a permanent overview is suitable.
+The design is based on the principle of informative design. The emphasis is on good readability and navigation within the guide. The current design of the guide is based on a benchmark analysis for guides used for reference. The user must know where he is and which chapters are available. Therefore only a page navigation that offers a permanent overview is suitable.
 
 <img src="{{ '/assets/images/documentation/material.png' | prepend: site.baseurl }}" alt="Material Design is similar in structure to this guide. The navigation is permanently visible and the user is supported by a table of contents."/>
 Material Design is similar in structure to this guide. The navigation is permanently visible and the user is supported by a table of contents. [Google – Material Designs](https://material.io/design/usability/accessibility.html#understanding-accessibility"){:target="_blank"}
@@ -99,11 +99,13 @@ Several steps are planned in the near future. It is very important that this gui
 The content must be thoroughly reviewed again, currently the site is in a working state which is ready for submission. For a publication the guide is not developed enough.
 
 ### Patterns
-Patterns will be included in the guide, this will be an important part of the guide in the future. Actually this is one of the most important parts for designers, but it didn't make sense for me to publish it if the foundation is not developed enough.
+Patterns will be included in the guide in the near future. Actually this is one of the most important parts for designers, but it didn't make sense for me to publish it if the foundation is not developed enough.
 
 ### Publication and collaboration
 Since I can't do this all by myself, this guide will be completely designed for collaboration in the future. Everybody can be a part of it and this collection of knowledge will continue to grow.
 
+
 ---
 
 [Back to the guide](/docs){: .btn .btn-purple }
+
