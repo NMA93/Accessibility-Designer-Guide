@@ -55,7 +55,7 @@ The navigations are basically only intended to help the user to find his way aro
 
 ### Show me the site architecture
 
-Not only the site architecture should follow a hierarchy as we learned in chapter <a href="/Accessibility-Designer-Guide/docs/Architecture/website-architecture/"> Website architecture</a>, also the navigation should do so. The navigation should display the page architecture in a simplified form. This helps the user to get an overview of the content.
+Not only the site architecture should follow a hierarchy as we learned in chapter <[website architecture]({{ site.baseurl }}{% link docs/Architecture/website-architecture.md %} "website architecture"), also the navigation should do so. The navigation should display the page architecture in a simplified form. This helps the user to get an overview of the content.
 {: .mb-6 }
 
 <div id="container1">
@@ -93,7 +93,8 @@ Highlight navigation points that are in the focus of the user. This helps users 
 In this example from [Google Material Design](https://material.io/ "Google MAterial Design"){:target="_blank"}  we see how the hover state is clearly indicated in the navigation.
 {: .fs-3 .mb-6 }
 
-Often designers forget that the focus can also be designed. This is important for people who navigate the website with the keyboard. For better orientation of the user, the focus status differs in the visuality from the active menu items and hover. See <a href="/Accessibility-Designer-Guide/docs/Architecture/keyboard-friendly/"> Keyboard friendly.</a>
+Often designers forget that the focus can also be designed. This is important for people who navigate the website with the keyboard. For better orientation of the user, the focus status differs in the visuality from the active menu items and hover. See [keyboard friendly]({{ site.baseurl }}{% link docs/Architecture/keyboard-friendly.md %} "keyboard friendly").
+
 
 <img src="{{ '/assets/images/navigation/focus_sbb.png' | prepend: site.baseurl }}" alt="In this picture we see an example of a focus state with a shadow, which clearly distinguishes it from the elements."/>
 On [sbb.ch](https:sbb.ch "sbb.ch"){:target="_blank"} the focus state has been specially marked with a shadow, which clearly distinguishes it from the active menu items (Business customers) and the hover status.
