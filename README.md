@@ -19,6 +19,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/NMA93/
 
 ## License
 
-Content distributed by an [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license by 2020 Nils Mäder.<br>
+Content distributed by an [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license by Nils Mäder 2020.<br>
 Theme distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt)<br>
-I customized the wicked cool background ❤️ on my homepage at [SVGBackgrounds.com](https://www.svgbackgrounds.com/) distributed by an [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+I customized the wicked cool background ❤️ on my homepage at [SVGBackgrounds.com](https://www.svgbackgrounds.com/) distributed by an [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)<br>
+This guide uses twentytwenty distributed [ISC license](https://github.com/zurb/twentytwenty/blob/master/LICENSE.md)<br>

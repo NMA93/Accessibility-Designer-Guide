@@ -75,7 +75,7 @@ In this example, the user is shown suggestions while typing, even though he has 
 
 ## 6. Recognition rather than recall
 
-The user should never have to remember relevant information across multiple interactions. The design should always demand as little background knowledge from the user as possible. Options and actions should always be visible. The system should support the user in this, so the accessibility of a page can be increased.
+The user should never have to remember relevant information across multiple interactions. The design should always demand as little background knowledge from the user as possible. Options and actions should always be visible. The system should support the user, so the accessibility of a page can be increased.
 
 <img src="{{ '/assets/images/heuristics/recognition.png' | prepend: site.baseurl }}" alt="The picture shows a font selection menu, which shows the visuality of the fonts already in the preview." title="The picture shows a font selection menu, which shows the visuality of the fonts already in the preview."/>
 
@@ -94,11 +94,11 @@ In this example the common shortcuts of programs are shown, these can be used vi
 ---
 
 ## 8. Aesthetic and minimalist design
-Dialogues should be reduced to the essential. The usershould only be shown what is relevant for him. This increases the usability of a page by a screen reader significantly.
+Dialogues should be reduced to the essential. The user should only be shown what is relevant for him. This increases the usability of a page by a screen reader significantly.
 
 <img src="{{ '/assets/images/heuristics/minimalism.png' | prepend: site.baseurl }}" alt="In this picture you can see a login screen reduced to the minimum of ui-elements." title="In this picture you can see a login screen reduced to the minimum of ui-elements."/>
 
-As a good example of this, login screens can be considered. Optimally, there is nothing else on such a screen but elements that are needed for the login. Also search engines are a good example, google reduces its home page to the essential. Nothing more than a search box is needed.
+As a good example of this, login screens can be considered. There is nothing else on such a screen but elements that are needed for the login. Also search engines are a good example, google reduces its home page to the essential. Nothing more than a search box is needed.
 
 ---
 
