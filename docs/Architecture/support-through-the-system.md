@@ -71,7 +71,7 @@ The system asks the user if they really want to delete the file.
 ---
 
 ## Not all options are always available
-Certain actions are dependent on other factors. For example, as a private user I need different input fields like an organization. Therefore, it makes sense not to display them for both users. It is better to separate both input variants. For example, with a radio button. This way, the user is not overwhelmed with too much information. Another example are inactive elements that only become active once everything has been entered. In this way, the user knows that he or she can now proceed to the next step. See <a href="/Accessibility-Designer-Guide/docs/Architecture/processes/">processes</a> for more information on processes and user guidance.
+Certain actions are dependent on other factors. For example, as a private user I need different input fields like an organization. Therefore, it makes sense not to display them for both users. It is better to separate both input variants. For example, with a radio button. This way, the user is not overwhelmed with too much information. Another example are inactive elements that only become active once everything has been entered. In this way, the user knows that he or she can now proceed to the next step. See [processes]({{ site.baseurl }}{% link docs/Architecture/processes.md %} "processes") for more information on processes and user guidance.
 
 <div id="container1">
  <!-- The before image is first -->

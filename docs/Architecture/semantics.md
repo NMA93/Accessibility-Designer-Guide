@@ -62,7 +62,7 @@ In the code, the semantics are not as clearly visible to the user as we know it 
 - Semantic code can be better read by programs.
 - Loading times are shortened.
 - Automatic tables of contents can be created.
-- The keyboard operation is easier. See <a href="/Accessibility-Designer-Guide/02-Architecture/04-keyboard%20friendly/"> Keyboard friendly.</a>
+- The keyboard operation is easier. See [keyboard friendly]({{ site.baseurl }}{% link docs/Architecture/keyboard-friendly.md %} "keyboard friendly")
 - Accessibility is made possible because screen readers can read the content.
 
 Basically, each element on the page is given a meaning in the code that corresponds to the content or function of the element. This has several advantages, especially in terms of accessibility. The semantics in the code allows screen readers to read the meaning of individual elements, allowing people with impaired vision to navigate the page.

@@ -91,7 +91,7 @@ On the portal of the Canton of [St.Gallen](https://sg.ch/ "Website:sg.ch"), simp
 - Short paragraphs and sentences make it easier to read
 - Avoid technical terms
 - Expand acronyms. For Example, Rich Text Format (RTF)
-- Format and structure your text. See chapter [Semantics](/Accessibility-Designer-Guide/docs/Architecture/semantics/)
+- Format and structure your text. See chapter [semantics]({{ site.baseurl }}{% link docs/Architecture/semantics.md %} "semantics")
 - Use illustrations, icons and pictures to make your content easier to understand
 - Describe concrete examples, this makes it easier for many users to understand the content
  

@@ -111,7 +111,7 @@ This example clearly shows why labels should be put into context and labelled ac
 ---
 
 ## Active and inactive status
-It is also a matter of context if we only show certain contents of a page by interaction. The user must be able to determine the connection between trigger and appearing content at any time. Active elements should therefore always be highlighted. See also chapter [Nested content](/Accessibility-Designer-Guide/docs/Architecture/nested-content/) to get more detailed information on this topic. 
+It is also a matter of context if we only show certain contents of a page by interaction. The user must be able to determine the connection between trigger and appearing content at any time. Active elements should therefore always be highlighted. See also chapter [nested content]({{ site.baseurl }}{% link docs/Architecture/nested-content.md %} "nested-content") to get more detailed information on this topic. 
 {: .mb-6 }
  
 

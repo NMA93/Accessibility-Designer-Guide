@@ -55,7 +55,7 @@ The navigations are basically only intended to help the user to find his way aro
 
 ### Show me the site architecture
 
-Not only the site architecture should follow a hierarchy as we learned in chapter <[website architecture]({{ site.baseurl }}{% link docs/Architecture/website-architecture.md %} "website architecture"), also the navigation should do so. The navigation should display the page architecture in a simplified form. This helps the user to get an overview of the content.
+Not only the site architecture should follow a hierarchy as we learned in chapter [website architecture]({{ site.baseurl }}{% link docs/Architecture/website-architecture.md %} "website architecture"), also the navigation should do so. The navigation should display the page architecture in a simplified form. This helps the user to get an overview of the content.
 {: .mb-6 }
 
 <div id="container1">

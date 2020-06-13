@@ -91,7 +91,8 @@ Errors happen, and people with disabilities can quickly trigger unwanted actions
 ---
 
 ## Give feedback
-For all users it is confusing when the system completes an interaction or process without feedback. On the one hand you get the feeling that something has not worked. On the other hand, the user is not sure if the process took place at all. For users with disabilities who quickly make mistakes when using websites this is a accessibility problem. See also chapter [Application feedback](/Accessibility-Designer-Guide/docs/Architecture/application-feedback/) to get more detailed information about user feedback.
+For all users it is confusing when the system completes an interaction or process without feedback. On the one hand you get the feeling that something has not worked. On the other hand, the user is not sure if the process took place at all. For users with disabilities who quickly make mistakes when using websites this is a accessibility problem. See also chapter [application feedback]({{ site.baseurl }}{% link docs/Architecture/application-feedback.md %} "application feedback") to get more detailed information about user feedback.
+
 
 <img src="{{ '/assets/images/heuristics/visibility.png' | prepend: site.baseurl }}" alt="Picture of a sending process on a mobile phone, which shows the progress in the ui" title="Picture of a sending process on a mobile phone, which shows the progress in the ui"/>
 In this example, the upload can be stopped at any time and the user can see exactly what is happening and how the process is progressing.

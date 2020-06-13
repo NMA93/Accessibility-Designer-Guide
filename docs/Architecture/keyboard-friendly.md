@@ -47,7 +47,7 @@ Users with disabilities often use the keyboard to navigate a page. In general, a
 
 ## Structure of the Page
 
-As we have discussed in the chapter <a href="/Accessibility-Designer-Guide/docs/Architecture/semantics/">semantics</a>, the semantic of a website, means structuring the elements on a site into clear groups based on their meaning. This can greatly improve the ease of use of the keyboard.
+As we have discussed in the chapter [semantics]({{ site.baseurl }}{% link docs/Architecture/semantics.md %} "semantics"), the semantic of a website, means structuring the elements on a site into clear groups based on their meaning. This can greatly improve the ease of use of the keyboard.
 {: .mb-6 }
 
 <img src="{{ '/assets/images/semantics/semantic_structure.png' | prepend: site.baseurl }}" alt="In this picture you can see a page that has been broken down into its semantic structure."/>
