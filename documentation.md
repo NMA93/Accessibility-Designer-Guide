@@ -66,6 +66,10 @@ Since this guide is very text-heavy and should allow easy editing of the content
 ### Just the docs
 Just the docs was used as basis, because it is one of the most developed jekyll themes. It fits almost all the requirements I had for my guide.
 
+<img src="{{ '/assets/images/documentation/docs.gif' | prepend: site.baseurl }}" alt="Just the docs met all the criteria I needed for this task "/>
+Just the docs met all the criteria I needed for this task [Just the docs – github](https://github.com/pmarsceill/just-the-docs"){:target="_blank"}
+{: .fs-3 .mb-6 }
+
 - The code is semantically correct
 - The navigation shows the current location
 - Breadcrumbs
@@ -86,3 +90,7 @@ Patterns will be included in the guide, this will be an important part of the gu
 
 ### Publication and collaboration
 Since I can't do this all by myself, this guide will be completely designed for collaboration in the future. Everybody can be a part of it and this collection of knowledge will continue to grow.
+
+---
+
+[Back to the guide](/docs){: .btn .btn-purple }
