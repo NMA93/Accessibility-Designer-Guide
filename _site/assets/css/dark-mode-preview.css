@@ -137,11 +137,11 @@ body { font-family: "Inter", sans-serif; font-size: inherit; line-height: 1.4; c
 
 p, h1, h2, h3, h4, h5, h6, ol, ul, pre, address, blockquote, dl, div, fieldset, form, hr, noscript, table { margin-top: 0; }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 1.2em; margin-bottom: 0.8em; font-weight: 500; line-height: 1.15; color: #f5f6fa; }
+h1, h2, h3, h4, h5, h6 { margin-top: 1.2em; margin-bottom: 0.8em; font-weight: 500; line-height: 1.15; color: #f5f6fa; overflow-wrap: break-word; }
 
 p { margin-bottom: 1em; }
 
-a { color: #2c84fa; text-decoration: none; }
+a { color: #2c84fa; text-decoration: none; overflow-wrap: break-word; }
 
 a:not([class]) { text-decoration: none; background-image: linear-gradient(#44434d 0%, #44434d 100%); background-repeat: repeat-x; background-position: 0 100%; background-size: 1px 1px; }
 
@@ -381,9 +381,9 @@ li .highlight { margin-top: 0.5rem; }
 
 .btn { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right: 1em; padding-bottom: 0.3em; padding-left: 1em; margin: 0; font-family: inherit; font-size: inherit; font-weight: 500; line-height: 1.5; color: #2c84fa; text-decoration: none; vertical-align: baseline; cursor: pointer; background-color: #302d36; border-width: 0; border-radius: 4px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); appearance: none; }
 
-.btn:focus { text-decoration: none; outline: none; box-shadow: 0 0 0 3px rgba(255, 165, 0, 0.85); }
+.btn:focus { text-decoration: none; outline: none; box-shadow: 0 0 0 3px #E86826; }
 
-.btn:focus:hover, .btn.selected:focus { box-shadow: 0 0 0 3px rgba(255, 165, 0, 0.85); }
+.btn:focus:hover, .btn.selected:focus { box-shadow: 0 0 0 3px #E86826; }
 
 .btn:hover, .btn.zeroclipboard-is-hover { color: #227efa; }
 
@@ -399,7 +399,7 @@ li .highlight { margin-top: 0.5rem; }
 
 .btn-outline:hover, .btn-outline:active, .btn-outline.zeroclipboard-is-hover, .btn-outline.zeroclipboard-is-active { color: #1878fa; text-decoration: none; background-color: transparent; box-shadow: inset 0 0 0 3px #e6e1e8; }
 
-.btn-outline:focus { text-decoration: none; outline: none; box-shadow: inset 0 0 0 2px #5c5962, 0 0 0 3px rgba(255, 165, 0, 0.85); }
+.btn-outline:focus { text-decoration: none; outline: none; box-shadow: inset 0 0 0 2px #5c5962, 0 0 0 3px #E86826; }
 
 .btn-outline:focus:hover, .btn-outline.selected:focus { box-shadow: inset 0 0 0 2px #5c5962; }
 
@@ -1431,6 +1431,7 @@ pre.highlight code, figure.highlight code { padding: 0; border: 0; }
 
 .hero { background-color: #ffffff; background-image: url("../images/svg_background.svg"); background-attachment: fixed; background-size: inherit; position: fixed; opacity: 80%; top: 0; bottom: 0; left: 0; right: 0; z-index: -100; }
 
+/* background by SVGBackgrounds.com */
 .avatar { vertical-align: middle; width: 50px; height: 50px; border-radius: 50%; margin-right: 8px; }
 
 .landing { margin-top: 24%; }
