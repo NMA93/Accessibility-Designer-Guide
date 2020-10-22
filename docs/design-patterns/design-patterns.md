@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Patterns
+title: Design patterns
 nav_order: 5
 has_children: true
-permalink: docs/patterns
+permalink: docs/design-patterns
 ---
 
 # Patterns
