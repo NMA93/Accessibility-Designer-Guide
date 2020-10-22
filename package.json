@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
-  "version": "0.2.8",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "name": "accessibility-designer-guide",
+  "version": "0.3.0",
+  "description": "Accessibility Designer Guide",
+  "repository": "NMA93/Accessibility-Designer-Guide",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/NMA93/Accessibility-Designer-Guide/issues",
   "devDependencies": {
     "@primer/css": "^14.3.0",
     "prettier": "^2.0.5",
