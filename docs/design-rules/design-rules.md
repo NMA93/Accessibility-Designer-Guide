@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/design-rules
 ---
 
-# Design rules
+# 🎨 Design rules
 {: .no_toc }
 {: .fs-11 }
 

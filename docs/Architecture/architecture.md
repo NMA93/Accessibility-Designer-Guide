@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/architecture
 ---
 
-# Architecture
+# 🏗 Architecture
 {: .no_toc }
 {: .fs-11 }
 

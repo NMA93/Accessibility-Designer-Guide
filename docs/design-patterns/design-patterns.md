@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/design-patterns
 ---
 
-# Patterns
+# 🧩 Design patterns
 {: .no_toc }
 {: .fs-11 }
 

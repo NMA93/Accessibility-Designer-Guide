@@ -32,7 +32,7 @@
   }
   ,"6": {
     "title": "Accessibility in general",
-    "content": "Accessibility in general . Every seventh person in this world is disabled or has a limitation in the way they interact with their device. Therefore it is important that we as UX designers understand what accessible design means and how we can integrate it into our projects. The following chapters should help you to understand accessibility design in general. .",
+    "content": "ℹ️ Accessibility in general . Every seventh person in this world is disabled or has a limitation in the way they interact with their device. Therefore it is important that we as UX designers understand what accessible design means and how we can integrate it into our projects. The following chapters should help you to understand accessibility design in general. .",
     "url": "http://localhost:4000/docs/accessibility-in-general",
     "relUrl": "/docs/accessibility-in-general"
   }
@@ -50,13 +50,13 @@
   }
   ,"9": {
     "title": "Architecture",
-    "content": "Architecture . The architecture of a website is the key to a barrier-free website. The following chapters describe basic topics that are important in the early stages of a project. If these principles are followed, many accessibility problems from a design point of view can be avoided. .",
+    "content": "🏗 Architecture . The architecture of a website is the key to a barrier-free website. The following chapters describe basic topics that are important in the early stages of a project. If these principles are followed, many accessibility problems from a design point of view can be avoided. .",
     "url": "http://localhost:4000/docs/architecture",
     "relUrl": "/docs/architecture"
   }
   ,"10": {
     "title": "Buttons",
-    "content": "Buttons .",
+    "content": "Buttons . Buttons are among the most important interactive elements used on a website or application. And that is why special attention must be paid to them. . . . . What is expected from a button | Button size | Button labels | Primary and secondary | Status of the button | Correct barrier-free code for a button | . What is expected from a button . . Button size . . Button labels . . Primary and secondary . . Status of the button . . Correct barrier-free code for a button .",
     "url": "http://localhost:4000/docs/design-patterns/buttons/",
     "relUrl": "/docs/design-patterns/buttons/"
   }
@@ -92,13 +92,13 @@
   }
   ,"16": {
     "title": "Design patterns",
-    "content": "Patterns . In the everyday life of a UI designer, predefined design patterns for the solution of a problem are not uncommon. But even given design patterns can be implemented incorrectly if the designer does not consider accessibility. .",
+    "content": "🧩 Design patterns . In the everyday life of a UI designer, predefined design patterns for the solution of a problem are not uncommon. But even given design patterns can be implemented incorrectly if the designer does not consider accessibility. .",
     "url": "http://localhost:4000/docs/design-patterns",
     "relUrl": "/docs/design-patterns"
   }
   ,"17": {
     "title": "Design rules",
-    "content": "Design rules . Accessible design is not as complicated as many people think. If basic rules are followed, the design can prevent many hurdles for people with disabilities. The following chapters cover the most important rules that must be observed. .",
+    "content": "🎨 Design rules . Accessible design is not as complicated as many people think. If basic rules are followed, the design can prevent many hurdles for people with disabilities. The following chapters cover the most important rules that must be observed. .",
     "url": "http://localhost:4000/docs/design-rules",
     "relUrl": "/docs/design-rules"
   }
@@ -134,7 +134,7 @@
   }
   ,"23": {
     "title": "Links",
-    "content": "Links .",
+    "content": "Links . Links are essential to bring a site to life. For example, to download something, redirect the user or link within the site. So that links are always clearly understandable, there are a few rules to follow. . . . . What is expected from a link | How can I indicate a link Colour | Additional marking | Links within the site | Links that refer to external pages | | Links with icons | Status of links | Correct barrier-free code for a link Links within the site | Links that refer to external pages | | . What is expected from a link . . How can I indicate a link . Colour . Additional marking . Links within the site . Links that refer to external pages . . Links with icons . . Status of links . . Correct barrier-free code for a link . Links within the site . Links that refer to external pages .",
     "url": "http://localhost:4000/docs/design-patterns/links/",
     "relUrl": "/docs/design-patterns/links/"
   }
